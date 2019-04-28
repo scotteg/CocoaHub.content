@@ -1,0 +1,13 @@
+{
+    "name": "Pragma Conference",
+    "uri": "https://pragmaconference.com",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fpragmamark.jpg?alt=media&token=2bd04212-35aa-4e03-ad25-5eccbb2613e3",
+    "startDate": "2019-10-09T12:00:00+0000",
+    "endDate": "2019-10-11T12:00:00+0000",
+    "country": "Italy",
+    "city": "Bologna",
+    "tags": [
+        "tickets",
+        "callForPapers"
+    ]
+}
