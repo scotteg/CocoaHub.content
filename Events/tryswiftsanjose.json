@@ -1,7 +1,6 @@
-
 {
     "name": "try! Swift San Jose",
-    "uri": "https://www.tryswift.co/events/2019/sanjose/",
+    "url": "https://www.tryswift.co/events/2019/sanjose/",
     "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FtrySwiftSanJose.jpg?alt=media&token=41eb9d17-8c39-4a2c-b170-0c024ec83751",
     "startDate": "2019-06-07T12:00:00+0000",
     "endDate": "2019-06-07T23:00:00+0000",

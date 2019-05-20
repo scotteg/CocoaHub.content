@@ -1,13 +1,12 @@
 {
     "name": "SwiftConf",
-    "uri": "https://swiftconf.com/",
+    "url": "https://swiftconf.com/",
     "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fswiftconf.png?alt=media&token=188e4eb8-47b3-47ad-b269-0b927e7892d5",
     "startDate": "2019-08-28T12:00:00+0000",
     "endDate": "2019-08-29T12:00:00+0000",
     "country": "Gernmany",
     "city": "Cologne",
     "tags": [
-        "tickets",
-        "callForPapers"
+        "tickets"
     ]
 }
