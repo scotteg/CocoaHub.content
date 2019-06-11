@@ -1,11 +1,11 @@
 {
-    "name": "iOSDevUK",
-    "url": "https://www.iosdevuk.com",
-    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FiOSDevUK.jpg?alt=media&token=fe4641dc-2637-4182-87fa-5f25634d823c",
-    "startDate": "2019-09-02T12:00:00+0000",
-    "endDate": "2019-09-05T12:00:00+0000",
-    "country": "United Kingdom",
-    "city": "Aberystwyth",
+    "name": "try! Swift NYC 2019",
+    "url": "https://www.tryswift.co/events/2019/nyc/",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FtrySwiftNYC.jpg?alt=media&token=285eb1ac-26bf-4d5a-90c9-973049c6fa7d",
+    "startDate": "2019-09-08T12:00:00+0000",
+    "endDate": "2019-09-10T12:00:00+0000",
+    "country": "United States of America",
+    "city": "New York City",
     "tags": [
         "tickets",
         "callForPapers"
