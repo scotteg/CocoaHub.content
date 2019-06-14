@@ -1,0 +1,13 @@
+{
+    "title": "Swift Talk 156: A First Look at SwiftUI",
+    "description": "Learn more about SwiftUI's state-driven view updates by building a simple currency converter.",
+    "date": "2019-06-14T15:10:00+0000",
+    "url": "https://talk.objc.io/episodes/S01E156-a-first-look-at-swiftui",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "community"
+    ]
+}
