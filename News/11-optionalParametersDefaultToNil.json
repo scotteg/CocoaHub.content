@@ -1,0 +1,13 @@
+{
+    "title": "Omit optional parameters in functions",
+    "description": "Do you think optional parameters in functions should default to nil?",
+    "date": "2019-06-14T09:40:00+0000",
+    "url": "https://forums.swift.org/t/pitch-optional-parameters-in-functions-should-default-to-nil-allow-omission/25788",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
