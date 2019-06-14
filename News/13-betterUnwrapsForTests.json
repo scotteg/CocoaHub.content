@@ -1,6 +1,6 @@
 {
     "title": "Did you know about XCTUnwrap?",
-    "description": "Vincent Pradeilles shows how you can improve your tests by unwrapping a value with XCTUnwrap.",
+    "description": "Vincent Pradeilles shows how you'll be able to improve your tests by unwrapping a value with XCTUnwrap in Xcode 11.",
     "date": "2019-06-14T11:00:00+0000",
     "url": "https://ios-goodies.com/post/185565590631/week-286",
     "curator": {
