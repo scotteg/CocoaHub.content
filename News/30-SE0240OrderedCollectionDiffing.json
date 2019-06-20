@@ -1,0 +1,13 @@
+{
+    "title": "SE-0240: Ordered Collection Diffing",
+    "description": "An amendment to SE-0240 to add a new method, inverse(). What do you think?",
+    "date": "2019-06-20T11:33:00+0000",
+    "url": "https://forums.swift.org/t/amendment-se-0240-ordered-collection-diffing/26084",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
