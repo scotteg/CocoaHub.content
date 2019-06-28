@@ -1,0 +1,14 @@
+{
+    "title": "(Almost) Everything you should know about Grand Central Dispatch in Swift",
+    "edition": 3,
+    "tags": ["language"],
+    "url": "https://www.vadimbulavin.com/grand-central-dispatch-in-swift/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
