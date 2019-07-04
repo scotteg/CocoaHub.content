@@ -1,0 +1,14 @@
+{
+    "title": "How to use UIKit in SwiftUI",
+    "edition": 4,
+    "tags": ["ui", "language"],
+    "url": "https://sarunw.com/posts/uikit-in-swiftui",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

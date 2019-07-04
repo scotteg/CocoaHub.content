@@ -1,0 +1,14 @@
+{
+    "title": "Defining testing data in Swift",
+    "edition": 4,
+    "tags": ["testing"],
+    "url": "https://www.swiftbysundell.com/posts/defining-testing-data-in-swift",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

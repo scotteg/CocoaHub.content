@@ -1,0 +1,14 @@
+{
+    "title": "XCFrameworks Internals",
+    "edition": 4,
+    "tags": ["tipsAndTricks", "architecture"],
+    "url": "https://appspector.com/blog/xcframeworks",
+    "author": {
+        "name": "Igor",
+        "url": "https://twitter.com/deszip"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
