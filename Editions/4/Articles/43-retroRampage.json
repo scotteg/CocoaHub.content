@@ -1,0 +1,14 @@
+{
+    "title": "Retro Rampage",
+    "edition": 4,
+    "tags": ["tipsAndTricks"],
+    "url": "https://github.com/nicklockwood/RetroRampage",
+    "author": {
+        "name": "Nick Lockwood",
+        "url": "https://twitter.com/nicklockwood"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
