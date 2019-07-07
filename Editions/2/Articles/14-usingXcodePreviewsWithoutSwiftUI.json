@@ -1,7 +1,7 @@
 {
     "title": "Using Xcode Previews with existing views without using SwiftUI",
     "edition": 2,
-    "tags": ["tipsAndTricks"],
+    "tags": ["tooling"],
     "url": "https://www.avanderlee.com/xcode/xcode-previews/",
     "author": {
         "name": "Antoine v.d. Lee",
