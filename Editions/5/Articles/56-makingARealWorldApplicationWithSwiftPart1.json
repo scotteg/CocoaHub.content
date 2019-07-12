@@ -1,0 +1,14 @@
+{
+    "title": "Making a real world application with SwiftUI - Part 1: Data flow & Redux",
+    "edition": 5,
+    "tags": ["architecture"],
+    "url": "https://medium.com/@dimillian/making-a-real-world-application-with-swiftui-cb40884c1056",
+    "author": {
+        "name": "Thomas Ricouard",
+        "url": "https://twitter.com/Dimillian"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

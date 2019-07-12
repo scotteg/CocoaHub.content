@@ -1,0 +1,14 @@
+{
+    "title": "Combine debugging using operators",
+    "edition": 5,
+    "tags": ["debugging"],
+    "url": "https://www.avanderlee.com/debugging/combine-swift/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
