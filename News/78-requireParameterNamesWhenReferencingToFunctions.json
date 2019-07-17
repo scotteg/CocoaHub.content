@@ -1,0 +1,13 @@
+{
+    "title": "Require parameter names when referencing to functions",
+    "description": "A change like this would make count(where:) available and reduce the amount of work the compiler has to do to determine which function should it use. What do you think?",
+    "date": "2019-07-17T09:36:00+0000",
+    "url": "https://forums.swift.org/t/require-parameter-names-when-referencing-to-functions/",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
