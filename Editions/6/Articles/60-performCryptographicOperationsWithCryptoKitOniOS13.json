@@ -1,0 +1,14 @@
+{
+    "title": "Performing cryptographic operations with CryptoKit on iOS 13",
+    "edition": 6,
+    "tags": ["other"],
+    "url": "https://schiavo.me/2019/cryptokit-operations/",
+    "author": {
+        "name": "Julian Schiavo",
+        "url": "https://twitter.com/justjs_dev"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

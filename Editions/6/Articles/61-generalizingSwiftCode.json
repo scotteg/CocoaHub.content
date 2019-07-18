@@ -1,0 +1,14 @@
+{
+    "title": "Performing cryptographic operations with CryptoKit on iOS 13",
+    "edition": 6,
+    "tags": ["language", "tipsAndTricks"],
+    "url": "https://www.swiftbysundell.com/posts/generalizing-swift-code",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

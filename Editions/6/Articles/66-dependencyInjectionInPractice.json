@@ -1,0 +1,14 @@
+{
+    "title": "Dependency Injection in Practice",
+    "edition": 6,
+    "tags": ["architecture", "language"],
+    "url": "https://www.racecondition.software/blog/dependency-injection/",
+    "author": {
+        "name": "Josh Adams",
+        "url": "https://twitter.com/vermont42"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
