@@ -1,0 +1,13 @@
+{
+    "title": "Standard Library Preview Package",
+    "description": "There's a new pitch from Ben Cohen to discuss the addition of a new package, SwiftPreview. What do you think?",
+    "date": "2019-07-23T10:35:00+0000",
+    "url": "https://forums.swift.org/t/pitch-standard-library-preview-package/27202",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
