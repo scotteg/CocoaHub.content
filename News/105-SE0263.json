@@ -1,0 +1,13 @@
+{
+    "title": "SE-0263: Add a String Initializer with Access to Uninitialized Storage",
+    "description": "The review of the proposal written by David Smith begins today and runs through August 9, 2019. What do you think about this new initializer?",
+    "date": "2019-07-30T09:35:00+0000",
+    "url": "https://forums.swift.org/t/se-0263-add-a-string-initializer-with-access-to-uninitialized-storage/27417",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
