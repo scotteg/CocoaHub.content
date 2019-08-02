@@ -1,0 +1,14 @@
+{
+    "title": "Layered Architecture to Design iOS Apps",
+    "edition": 8,
+    "tags": ["architecture"],
+    "url": "https://www.vadimbulavin.com/layered-architecture-ios/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Rule-based logic",
+    "edition": 8,
+    "tags": ["architecture"],
+    "url": "https://www.swiftbysundell.com/posts/rule-based-logic-in-swift",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
