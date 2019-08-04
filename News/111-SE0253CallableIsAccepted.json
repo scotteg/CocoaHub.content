@@ -1,0 +1,13 @@
+{
+    "title": "SE-0253: Callable values of user-defined nominal types has been accepted!",
+    "description": "“The core team decided to accept the proposal, with the request to change call() syntax to callFunction()“",
+    "date": "2019-08-04T12:50:00+0000",
+    "url": "https://forums.swift.org/t/accepted-with-modification-se-0253-callable-values-of-user-defined-nominal-types/24605",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
