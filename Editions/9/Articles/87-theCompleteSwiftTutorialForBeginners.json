@@ -1,0 +1,14 @@
+{
+    "title": "The Complete Swift Tutorial For Beginners",
+    "edition": 9,
+    "tags": ["language"],
+    "url": "https://codewithchris.com/swift-tutorial-complete/",
+    "author": {
+        "name": "Chris Ching",
+        "url": "https://twitter.com/codewithchris/"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

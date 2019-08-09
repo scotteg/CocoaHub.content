@@ -1,0 +1,14 @@
+{
+    "title": "Array vs Set: Fundamentals in Swift explained",
+    "edition": 9,
+    "tags": ["language"],
+    "url": "https://www.avanderlee.com/swift/array-vs-set-differences-explained",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

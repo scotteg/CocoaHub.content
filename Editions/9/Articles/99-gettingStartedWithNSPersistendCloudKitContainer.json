@@ -1,0 +1,14 @@
+{
+    "title": "Getting Started With NSPersistentCloudKitContainer",
+    "edition": 9,
+    "tags": ["storage"],
+    "url": "https://www.andrewcbancroft.com/blog/ios-development/data-persistence/getting-started-with-nspersistentcloudkitcontainer",
+    "author": {
+        "name": "Andrew Bancroft",
+        "url": "https://twitter.com/andrewcbancroft"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
