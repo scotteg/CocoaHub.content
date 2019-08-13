@@ -1,0 +1,12 @@
+{
+    "title": "Swift by Sundell Podcast 54: Swift 5.1, iOS 13 and iPadOS",
+    "description": "Join John Sundell and his special guests, Benedikt Terhechte & Bas Broek, and hear them talking about iOS 13, iPadOS, Swift 5.1 and much more!",
+    "url": "https://www.swiftbysundell.com/podcast/54",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "podcast"
+    ]
+}
