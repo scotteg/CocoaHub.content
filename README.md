@@ -4,11 +4,9 @@ Events, news and articles related to Apple's programming ecosystem in the palm o
 
 Everyone can contribute to CocoaHub by adding content and keeping it updated! In order to do so there are just *some* guidelines that you need to follow!
 
-## Guidelines
+# Guidelines
 
-In order to contribute to CocoaHub's content all you have to do is open a PR with a json file following the appropriate syntax and clearly identify in the commit/title what you are doing.
-
-### Commit messages / Pull Requests Titles
+## Commit messages / Pull Requests Titles
 
 The syntax should be **Action** | **Area** | **Title**.
 
@@ -16,9 +14,9 @@ The syntax should be **Action** | **Area** | **Title**.
 * Area: **New**, **Edition**, **Article**, **Event**, **Recommendation** and **Contributor**
 * Title: For example in case of a new, it's the title of the new. 
 
-### JSON Structures
+## JSON Structures
 
-#### New
+### New
 
 ```json
 {
@@ -44,7 +42,7 @@ There are 6 possible tags for news, being:
 * **newsletter**
 * **community**
 
-#### Edition
+### Edition
 
 ```json
 {
@@ -55,7 +53,7 @@ There are 6 possible tags for news, being:
 
 ```
 
-#### Article
+### Article
 
 ```json
 {
@@ -93,7 +91,7 @@ There are 16 possible tags for articles, being:
 * **workflow**
 * **other**
 
-#### Event
+### Event
 
 ```json
 {
@@ -115,7 +113,7 @@ There are 2 possible tags for events, being:
 - **tickets**, while there are tickets available to buy
 - **callForPapers**, while there's an active Call for Papers
 
-#### Contributor
+### Contributor
 
 ```jso
 {
@@ -124,7 +122,7 @@ There are 2 possible tags for events, being:
 }
 ```
 
-#### Recommendation
+### Recommendation
 
 ```json
 {
@@ -134,4 +132,3 @@ There are 2 possible tags for events, being:
     "url": "https://apps.apple.com/app/unwrap/id1440611372"
 }
 ```
-
