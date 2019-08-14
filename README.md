@@ -10,4 +10,4 @@ Events, news and articles related to Apple's programming ecosystem in the palm o
 
 ## About this repository
 
-Cocoahub.content is a mirror of CocoaHub's database.Everyone can contribute by adding or updating content and we welcome you to give it a try and be one of our curators! To learn more about how you can contribute to CocoaHub's content, please visit [CONTRIBUTING](https://github.com/pedrommcarrasco/Cocoahub.content/blob/master/CONTRIBUTING.md).
+CocoaHub.content is a mirror of CocoaHub's database.Everyone can contribute by adding or updating content and we welcome you to give it a try and be one of our curators! To learn more about how you can contribute to CocoaHub's content, please visit [CONTRIBUTING](https://github.com/pedrommcarrasco/Cocoahub.content/blob/master/CONTRIBUTING.md).
