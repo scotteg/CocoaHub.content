@@ -1,6 +1,6 @@
 ![](https://github.com/pedrommcarrasco/Cocoahub.content/blob/master/banner.jpg?raw=true)
 
-<p align="center"><a href="https://testflight.apple.com/join/C1U1l5yy"><img src="images/cta.png" /></a></p>
+<p align="center"><a href="https://testflight.apple.com/join/C1U1l5yy"><img src="cta.png" /></a></p>
 
 Events, news and articles related to Apple's programming ecosystem in the palm of your hand. For more details about CocoaHub visit our [website](https://cocoahub.app), follow us on [Twitter](https://twitter.com/CocoaHubApp) or join us on [Reddit](https://www.reddit.com/r/CocoaHub/).
 
