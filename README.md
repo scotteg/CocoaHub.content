@@ -4,9 +4,9 @@ Events, news and articles related to Apple's programming ecosystem in the palm o
 
 <p align="center"><a href="https://testflight.apple.com/join/C1U1l5yy"><img src="cta.png" width="150"/></a></p>
 
-- 📦 [CocoaHub.content](www.github.com/pedrommcarrasco/cocoahub.content)
-- 🧠 [CocoaHub.server](www.github.com/pedrommcarrasco/cocoahub.server)
-- 🌐 [CocoaHub.website](www.github.com/pedrommcarrasco/cocoahub.website)
+- 📦 [CocoaHub.content](https://github.com/pedrommcarrasco/CocoaHub.content)
+- 🧠 [CocoaHub.server](https://github.com/pedrommcarrasco/CocoaHub.server)
+- 🌐 [CocoaHub.website](https://github.com/pedrommcarrasco/CocoaHub.website)
 
 ## About this repository
 
