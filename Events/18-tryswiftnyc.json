@@ -6,8 +6,5 @@
     "endDate": "2019-09-10T12:00:00+0000",
     "country": "United States of America",
     "city": "New York City",
-    "tags": [
-        "tickets",
-        "callForPapers"
-    ]
+    "tags": []
 }
