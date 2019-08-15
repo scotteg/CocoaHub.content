@@ -1,0 +1,12 @@
+{
+    "title": "Allow implicit self in escaping closures when self is explicitly captured",
+    "description": "A pitch by Frederick Kellison-Linn that aims to modify the rule that all uses of self in escaping closures must be explicit by allowing for implicit uses of self as long as self is explicitly declared in the capture list. What do you think?",
+    "url": "https://forums.swift.org/t/allow-implicit-self-in-escaping-closures-when-self-is-explicitly-captured/22590",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
