@@ -1,0 +1,14 @@
+{
+    "title": "Time Complexity",
+    "edition": 10,
+    "tags": ["tipsAndTricks"],
+    "url": "https://www.swiftbysundell.com/basics/time-complexity",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

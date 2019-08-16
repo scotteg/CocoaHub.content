@@ -1,0 +1,14 @@
+{
+    "title": "Real-World Unit Testing",
+    "edition": 10,
+    "tags": ["testing"],
+    "url": "https://www.vadimbulavin.com/real-world-unit-testing-in-swift/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Computed Properties",
+    "edition": 10,
+    "tags": ["language", "tipsAndTricks"],
+    "url": "https://www.swiftbysundell.com/posts/computed-properties-in-swift",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
