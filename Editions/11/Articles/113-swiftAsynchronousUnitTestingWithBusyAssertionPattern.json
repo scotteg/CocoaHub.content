@@ -1,0 +1,14 @@
+{
+    "title": "Xcode Instruments usage to improve app performance",
+    "edition": 11,
+    "tags": ["debugging", "tooling"],
+    "url": "https://www.avanderlee.com/debugging/xcode-instruments-time-profiler/",
+    "author": {
+        "name": "Antoine v. d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
