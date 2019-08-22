@@ -1,0 +1,12 @@
+{
+    "title": "Rearchitecting JSONEncoder to be much faster",
+    "description": "Michael Eisel shares what he learned from building ZippyJSON and proposes a new architecture for the JSONEnconder. What do you think?",
+    "url": "https://forums.swift.org/t/rearchitecting-jsonencoder-to-be-much-faster/28139",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
