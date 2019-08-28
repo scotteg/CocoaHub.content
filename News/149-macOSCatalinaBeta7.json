@@ -1,0 +1,12 @@
+{
+    "title": "macOS Catalina Beta 7 is now available",
+    "description": "This beta makes macOS Catalina compatible with the seventh beta of Xcode 11.",
+    "url": "https://developer.apple.com/documentation/macos_release_notes/macos_10_15_beta_release_notes/",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "apple"
+    ]
+}
