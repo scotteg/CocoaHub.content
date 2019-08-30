@@ -1,0 +1,14 @@
+{
+    "title": "Keeping Your Network Layer Clean With DRY",
+    "edition": 12,
+    "tags": ["architecture"],
+    "url": "https://ioscoachfrank.com/dry-network-layer.html",
+    "author": {
+        "name": "Frank Courville",
+        "url": "https://twitter.com/frankacy"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

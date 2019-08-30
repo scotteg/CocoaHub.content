@@ -1,0 +1,14 @@
+{
+    "title": "Caching in Swift",
+    "edition": 12,
+    "tags": ["storage"],
+    "url": "https://www.swiftbysundell.net/articles/caching-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
