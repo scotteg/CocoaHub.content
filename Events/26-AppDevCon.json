@@ -1,0 +1,13 @@
+{
+    "name": "AppDevCon",
+    "url": "https://appdevcon.nl",
+    "logo": "https://pbs.twimg.com/profile_images/1133660687383900160/5_0gzXbh_reasonably_small.png",
+    "startDate": "2020-03-10T12:00:00+0000",
+    "endDate": "2020-03-13T12:00:00+0000",
+    "country": "The Netherlands",
+    "city": "Amsterdam",
+    "tags": [
+      "tickets",
+      "callForPapers"
+    ]
+}
