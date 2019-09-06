@@ -1,0 +1,14 @@
+{
+    "title": "Unit tests best practices in Xcode and Swift",
+    "edition": 13,
+    "tags": ["testing"],
+    "url": "https://www.avanderlee.com/swift/unit-tests-best-practices/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

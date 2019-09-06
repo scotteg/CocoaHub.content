@@ -1,0 +1,14 @@
+{
+    "title": "Modeling app state using Store objects in SwiftUI",
+    "edition": 13,
+    "tags": ["architecture"],
+    "url": "https://mecid.github.io/2019/09/04/modeling-app-state-using-store-objects-in-swiftui/",
+    "author": {
+        "name": "Majid Jabrayilov",
+        "url": "https://twitter.com/mecid"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

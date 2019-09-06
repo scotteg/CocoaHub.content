@@ -1,0 +1,14 @@
+{
+    "title": "Picking the right data structure",
+    "edition": 13,
+    "tags": ["language"],
+    "url": "https://www.swiftbysundell.com/articles/picking-the-right-data-structure-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
