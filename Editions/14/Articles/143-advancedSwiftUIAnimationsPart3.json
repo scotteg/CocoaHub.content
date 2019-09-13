@@ -1,0 +1,14 @@
+{
+    "title": "Advanced SwiftUI Animations – Part 3: AnimatableModifier",
+    "edition": 14,
+    "tags": ["ui"],
+    "url": "https://swiftui-lab.com/swiftui-animations-part3/",
+    "author": {
+        "name": "Javier",
+        "url": "https://twitter.com/SwiftUILab"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
