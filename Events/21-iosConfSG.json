@@ -1,11 +1,11 @@
 {
-    "name": "MobileOptimized",
-    "url": "https://moconf.by/",
-    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FmobileOptimized.jpg?alt=media&token=89f021f6-c7ca-4359-b3e6-29e1369a2777",
-    "startDate": "2019-10-19T12:00:00+0000",
-    "endDate": "2019-10-19T23:00:00+0000",
-    "country": "Belarus",
-    "city": "Minsk",
+    "name": "iOS Conf SG",
+    "url": "https://iosconf.sg",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FiosConfSG.jpg?alt=media&token=5b4677c1-6e01-448d-91c4-b0e07f1a035f",
+    "startDate": "2020-01-15T12:00:00+0000",
+    "endDate": "2020-01-18T12:00:00+0000",
+    "country": "Singapore",
+    "city": "Singapore",
     "tags": [
         "tickets"
     ]
