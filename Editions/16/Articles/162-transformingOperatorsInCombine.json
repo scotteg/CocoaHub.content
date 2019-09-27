@@ -1,0 +1,14 @@
+{
+    "title": "Transforming Operators in Swift Combine Framework: Map vs FlatMap vs SwitchToLatest",
+    "edition": 16,
+    "tags": ["language"],
+    "url": "https://www.vadimbulavin.com/map-flatmap-switchtolatest-in-combine-framework/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
