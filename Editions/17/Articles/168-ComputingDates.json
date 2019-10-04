@@ -1,0 +1,14 @@
+{
+    "title": "Combine dates",
+    "edition": 17,
+    "tags": ["language"],
+    "url": "https://www.swiftbysundell.com/articles/computing-dates-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
