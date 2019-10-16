@@ -1,0 +1,12 @@
+{
+    "title": "SE-0266: Synthesized Comparable conformance for enum types has been accepted!",
+    "description": "“Much of the review was occupied with discussion of adding support for structs and raw-representable enums. The core team would welcome further pitches weighing the pros and cons of these additions“.",
+    "url": "https://forums.swift.org/t/accepted-se-0266-synthesized-comparable-conformance-for-enum-types/29854",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
