@@ -1,0 +1,12 @@
+{
+    "title": "SE-0264 Standard Library Preview Package has returned for revision",
+    "description": "While it had a positive response from the community, there were also concerns on versioning. John McCall shared the idea of “separately-versioned packages for each proposal“ which led to the core team requesting a revised proposal with this included.",
+    "url": "https://forums.swift.org/t/returned-for-revision-se-0264-standard-library-preview-package/29865",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
