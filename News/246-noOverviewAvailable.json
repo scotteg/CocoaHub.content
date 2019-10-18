@@ -1,0 +1,12 @@
+{
+    "title": "No overview available",
+    "description": "How often do you see this message in Apple's documentation? To answer this, Mattt built a website that gathers coverage on symbols documented via web scrapping.",
+    "url": "https://nooverviewavailable.com",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "community"
+    ]
+}
