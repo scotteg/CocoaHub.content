@@ -1,0 +1,12 @@
+{
+    "title": "Add RangeSet and Related Collection Operations",
+    "description": "Nate Cook creates a pitch “to fill a missing chunk of functionality in the standard library around noncontiguous ranges of elements“. What do you think?",
+    "url": "https://forums.swift.org/t/pitch-add-rangeset-and-related-collection-operations/29961",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
