@@ -1,0 +1,12 @@
+{
+    "title": "SE-0268: Refine didSet Semantics",
+    "description": "Suyash Srijan proposes changing didSet semantics to skip a property's getter if there's no reference to oldValue or allow modifications to happen in-place in certain conditions. What do you think?",
+    "url": "https://forums.swift.org/t/se-0268-refine-didset-semantics/30049",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
