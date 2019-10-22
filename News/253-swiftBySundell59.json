@@ -1,0 +1,12 @@
+{
+    "title": "Swift by Sundell Podcast 59: “A major step forward”",
+    "description": "Listen to John Sundell and his special guest, John Shaffer, engineering director with the UIKit/SwiftUI team at Apple, talk about what inspired the creation and design of SwiftUI, how Apple is using and improving it internally, and much more!",
+    "url": "https://www.swiftbysundell.com/podcast/59",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "podcast"
+    ]
+}
