@@ -1,0 +1,14 @@
+{
+    "title": "When to use map, flatMap and compactMap",
+    "edition": 20,
+    "tags": ["language", "tipsAndTricks"],
+    "url": "https://www.donnywals.com/when-to-use-map-flatmap-and-compactmap/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Default arguments in Swift",
+    "edition": 20,
+    "tags": ["language", "tipsAndTricks"],
+    "url": "https://www.swiftbysundell.com/articles/default-arguments-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
