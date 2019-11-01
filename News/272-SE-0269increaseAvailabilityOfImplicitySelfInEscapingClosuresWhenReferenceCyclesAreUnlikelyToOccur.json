@@ -1,0 +1,12 @@
+{
+    "title": "SE-0269: Increase availability of implicity self in @escaping closures",
+    "description": "Frederick Kellison-Linn proposes allowing for implicit uses of self in escaping closures where strong reference cycles are unlikely to occur or when self has been explicitly captured. What do you think?",
+    "url": "https://forums.swift.org/t/30376",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
