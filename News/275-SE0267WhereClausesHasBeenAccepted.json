@@ -1,7 +1,7 @@
 {
-    "title": "SE-0263: where clauses on contextually generic declarations has been accepted!",
+    "title": "SE-0267: where clauses on contextually generic declarations has been accepted!",
     "description": "“The proposal addresses the issue of conditional protocol requirements by disallowing constraints involving Self from being applied to protocol requirements“.",
-    "url": "https://forums.swift.org/t/accepted-se-0263-add-a-string-initializer-with-access-to-uninitialized-storage/30057",
+    "url": "https://forums.swift.org/t/accepted-se-0267-where-clauses-on-contextually-generic-declarations/30474/4",
     "curator": {
         "name": "Pedro Carrasco",
         "url": "https://twitter.com/pedrommcarrasco"
