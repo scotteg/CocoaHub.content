@@ -1,0 +1,12 @@
+{
+    "title": "Swift Numerics",
+    "description": "”Swift Numerics will provide the building blocks of numerical computing in Swift, as a set of fine-grained modules bundled together into a single Swift package. My hope is that we can quickly fill some important gaps in the Standard Library’s existing APIs, and unlock new domains of programming to the Swift language.”",
+    "url": "https://swift.org/blog/numerics/",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
