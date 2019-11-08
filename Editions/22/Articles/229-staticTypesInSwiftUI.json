@@ -1,0 +1,14 @@
+{
+    "title": "Static Types in SwiftUI",
+    "edition": 22,
+    "tags": ["ui", "other"],
+    "url": "https://www.objc.io/blog/2019/11/05/static-types-in-swiftui/",
+    "author": {
+        "name": "Chris Eidhof",
+        "url": "https://twitter.com/chriseidhof"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    }
+}

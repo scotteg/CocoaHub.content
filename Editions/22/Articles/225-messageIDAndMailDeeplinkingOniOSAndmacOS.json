@@ -1,0 +1,14 @@
+{
+    "title": "Message-ID and Mail.app Deep Linking on iOS and macOS",
+    "edition": 22,
+    "tags": ["other", "tipsAndTricks"],
+    "url": "https://nshipster.com/message-id/",
+    "author": {
+        "name": "Mattt",
+        "url": "https://twitter.com/mattt"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
