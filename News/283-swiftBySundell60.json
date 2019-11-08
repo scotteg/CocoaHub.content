@@ -1,0 +1,12 @@
+{
+    "title": "Swift by Sundell Podcast 60: “Deploying SwiftUI in production”",
+    "description": "Listen to John Sundell and his special guest, David Smith, talk about the current state of Apple Watch app development, how SwiftUI is changing how watchOS apps are built, whether SwiftUI is actually production-ready and much more!",
+    "url": "https://www.swiftbysundell.com/podcast/60",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "podcast"
+    ]
+}
