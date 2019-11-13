@@ -1,12 +1,12 @@
 {
-    "title": "Stacktrace Podcast 062: “Squeeze Morse Code”",
-    "description": "John Sundell and Gui Rambo talk about static site generation, AirPods Pro, Apple Arcade and much more!",
-    "url": "https://9to5mac.com/2019/11/13/stacktrace-podcast-062-squeeze-morse-code/",
+    "title": "SE-0272: Package Manager Binary Dependencies",
+    "description": "Braden Scothern, Daniel Dunbar and Franz Busch propose allowing Swift Package Manager to accept binary packages. What do you think?",
+    "url": "https://forums.swift.org/t/30753",
     "curator": {
         "name": "Pedro Carrasco",
         "url": "https://twitter.com/pedrommcarrasco"
     },
     "tags": [
-        "podcast"
+        "evolution"
     ]
 }
