@@ -1,0 +1,14 @@
+{
+    "title": "Combining value and reference types in Swift",
+    "edition": 23,
+    "tags": ["language"],
+    "url": "https://www.swiftbysundell.com/articles/combining-value-and-reference-types-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    }
+}

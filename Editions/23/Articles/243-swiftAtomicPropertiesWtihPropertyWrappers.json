@@ -1,0 +1,14 @@
+{
+    "title": "Swift Atomic Properties with Property Wrappers",
+    "edition": 23,
+    "tags": ["language"],
+    "url": "https://www.vadimbulavin.com/swift-atomic-properties-with-property-wrappers/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
