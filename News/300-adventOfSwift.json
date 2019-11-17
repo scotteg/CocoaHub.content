@@ -1,0 +1,12 @@
+{
+    "title": "Advent of Swift 2019",
+    "description": "Every day in December, Donny Wals will publish a new article on his blog about Swift and iOS development until Christmas eve. Want to see a topic covered? Let him know!",
+    "url": "https://www.donnywals.com/announcing-advent-of-swift/",
+    "curator": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/donnywals"
+    },
+    "tags": [
+        "community"
+    ]
+}
