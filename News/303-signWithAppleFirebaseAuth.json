@@ -1,0 +1,12 @@
+{
+    "title": "Sign in with Apple is now available for Firebase Auth",
+    "description": "“We are pleased to announce beta support for Sign in with Apple in Firebase Authentication. Sign in with Apple allows your users to sign in to your applications and websites using their Apple ID.“",
+    "url": "https://firebase.googleblog.com/2019/11/sign-in-with-apple-auth.html",
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "community"
+    ]
+}
