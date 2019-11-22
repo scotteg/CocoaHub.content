@@ -1,0 +1,12 @@
+{
+    "title": "SE-0271: Package Manager Resources has been accepted with modifications",
+    "description": "“The SwiftPM code owners decided to accept a revised version of the proposal which addresses both of these issues.“",
+    "url": "https://forums.swift.org/t/accepted-with-modifications-se-0271-package-manager-resources/31021",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
