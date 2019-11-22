@@ -1,0 +1,13 @@
+{
+    "title": "End-to-end Swift",
+    "description": "Tim Condon, server-side Swift developer, writer and conference organizer, joins John to talk about all things networking. From organizing and abstracting networking code on the client-side, to using Swift on the server, and how to combine the two in order to write Swift end-to-end",
+    "date": "2019-08-01T16:42:00+0000",
+    "url": "https://www.swiftbysundell.com/podcast/61/",
+    "curator": {
+        "name": "Irshad Pc",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "podcast"
+    ]
+}
