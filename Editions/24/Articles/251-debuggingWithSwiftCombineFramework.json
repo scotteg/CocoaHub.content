@@ -1,0 +1,14 @@
+{
+    "title": "Debugging with Swift Combine Framework",
+    "edition": 24,
+    "tags": ["debugging"],
+    "url": "https://www.vadimbulavin.com/debugging-with-combine-swift-framework/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    }
+}
