@@ -1,0 +1,12 @@
+{
+    "title": "SE-0269: Increase availability of implicity self in @escaping closures has been accepted",
+    "description": "“The discussion on both topics was deeply constructive and productive. The core team wants to express their deep thanks to everyone who contributed to this discussion.“",
+    "url": "https://forums.swift.org/t/31064",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
