@@ -1,0 +1,14 @@
+{
+    "title": "Lightweight API design in Swift",
+    "edition": 25,
+    "tags": ["architecture"],
+    "url": "https://swiftbysundell.com/articles/lightweight-api-design-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
