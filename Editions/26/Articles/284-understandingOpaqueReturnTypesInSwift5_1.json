@@ -1,0 +1,14 @@
+{
+    "title": "Understanding opaque return types in Swift 5.1",
+    "edition": 26,
+    "tags": ["language"],
+    "url": "https://www.donnywals.com/understanding-opaque-return-types-in-swift-5-1/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    }
+}
