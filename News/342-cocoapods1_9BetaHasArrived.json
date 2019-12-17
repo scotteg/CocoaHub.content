@@ -1,0 +1,12 @@
+{
+    "title": "CocoaPods 1.9 Beta is now available",
+    "description": "The first beta of CocoaPods 1.9 adds support for XCFrameworks, configuration-based dependencies for Podspecs, code coverage in test specs, linkage customization and other enhancements.",
+    "url": "https://blog.cocoapods.org/CocoaPods-1.9.0-beta/",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "community"
+    ]
+}
