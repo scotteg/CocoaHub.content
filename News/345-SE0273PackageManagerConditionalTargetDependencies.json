@@ -1,0 +1,12 @@
+{
+    "title": "SE-0273: Package Manager Conditional Target Dependencies",
+    "description": "David Hart proposes introducing “the ability for Swift package authors to conditionalize target dependencies on platform and configuration with a similar syntax to the one introduced in SE-0238 for build settings“. What do you think?",
+    "url": "https://forums.swift.org/t/se-0273-package-manager-conditional-target-dependencies/31667",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
