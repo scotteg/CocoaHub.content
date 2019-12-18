@@ -1,0 +1,12 @@
+{
+    "title": "SE-0268: Refine didSet Semantics has been accepted",
+    "description": "“During the second review, it became clear that the feeling of most commenters was that the increased verbosity (and new warnings) did not justify the change. The core team agrees with the feedback, and so has accepted the original proposal.“",
+    "url": "https://developer.apple.com/news/releases/",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
