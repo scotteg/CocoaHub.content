@@ -1,6 +1,6 @@
 {
-    "title": "What’s New in Vapor 4",
-    "description": "Vapor released it is the fourth major version and it fixes 500 issues and pulls requests so far.",
+    "title": "What's new in Vapor 4",
+    "description": "Vapor 4 will introduce a new dependency injection API, integration with the new Swift Server Working Group ecosystem, new Model API, HTTP/2, APNS and much more!",
     "url": "https://forums.swift.org/t/whats-new-in-vapor-4/31832",
     "curator": {
         "name": "Irshad PC",
