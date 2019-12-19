@@ -1,0 +1,12 @@
+{
+    "title": "Modify Accessors",
+    "description": "A new pitch by Ben Cohen by a new way of writing mutable computed properties and subscripts.,
+    "url": "https://forums.swift.org/t/pitch-modify-accessors/31872",
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
