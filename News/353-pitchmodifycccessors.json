@@ -1,6 +1,6 @@
 {
     "title": "Modify Accessors",
-    "description": "A new pitch by Ben Cohen by a new way of writing mutable computed properties and subscripts.,
+    "description": "Ben Cohen pitches the introduction of a new keyword, modify, for implementing mutable computed properties and subscript. What do you think?",
     "url": "https://forums.swift.org/t/pitch-modify-accessors/31872",
     "curator": {
         "name": "Irshad PC",
