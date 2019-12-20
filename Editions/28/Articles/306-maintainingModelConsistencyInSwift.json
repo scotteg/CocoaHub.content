@@ -1,0 +1,14 @@
+{
+    "title": "Maintaining model consistency in Swift",
+    "edition": 28,
+    "tags": ["architecture"],
+    "url": "https://www.swiftbysundell.com/articles/maintaining-model-consistency-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
