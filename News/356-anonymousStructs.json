@@ -1,0 +1,12 @@
+{
+    "title": "Anonymous Structs",
+    "description": "Matthew Johnson and Nickolas Pokhylets are working on a proposal to introduce anonymous structs in Swift",
+    "url": "https://forums.swift.org/t/anonymous-structs/31424",
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
