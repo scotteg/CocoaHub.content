@@ -1,0 +1,12 @@
+{
+    "title": "Updating applications that use Web Views",
+    "description": "Apple reminds developers to update web views to WKWebView as soon as possible for improved security and reliability. The App Store will also stop accepting new apps using UIWebView as of April 2020 and updates as of December 2020.",
+    "url": "https://developer.apple.com/news/?id=12232019b",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "apple"
+    ]
+}
