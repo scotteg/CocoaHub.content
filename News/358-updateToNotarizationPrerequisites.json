@@ -1,0 +1,12 @@
+{
+    "title": "Update to Notarization Prerequisites",
+    "description": "After temporarily adjusting the notarization prerequisites back in September, Apple informs that starting on February 3, 2020, all submitted software must meet the original notarization prerequisites.",
+    "url": "https://developer.apple.com/news/?id=12232019a",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "apple"
+    ]
+}
