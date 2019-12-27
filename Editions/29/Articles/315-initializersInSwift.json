@@ -1,0 +1,14 @@
+{
+    "title": "Initializers in Swift",
+    "edition": 29,
+    "tags": ["architecture"],
+    "url": "https://www.swiftbysundell.com/articles/initializers-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
