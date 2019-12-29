@@ -1,0 +1,12 @@
+{
+      "title": "Whitespaces and punctuation for methods declarations",
+      "description": "Alfredo Delli Bovi proposes making reduce the difficulty of reading test methods with lacking whitespace and punctuation. What do you think?",
+      "url": "https://forums.swift.org/t/pre-pitch-whitespaces-and-punctuation-for-methods-declarations/32073",
+      "curator": {
+          "name": "Irshad PC",
+          "url": "https://twitter.com/_irshadpc"
+      },
+      "tags": [
+          "evolution"
+      ]
+  }
