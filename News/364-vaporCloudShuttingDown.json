@@ -1,0 +1,12 @@
+{
+      "title": "Vapor Cloud is shutting down",
+      "description": "“We are sad to announce that Vapor Cloud will be shutting down on February 29th. After Vapor Cloud shuts down, all active replicas, databases, and caches will become unavailable.“",
+      "url": "https://docs.vapor.cloud/shutdown/",
+      "curator": {
+          "name": "Pedro Carrasco",
+          "url": "https://twitter.com/pedrommcarrasco"
+      },
+      "tags": [
+          "community"
+      ]
+  }
