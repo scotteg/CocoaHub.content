@@ -1,0 +1,14 @@
+{
+    "title": "GraphQL Advances when fetching data in iOS with Swift and Apollo SDK",
+    "edition": 30,
+    "tags": ["other"],
+    "url": "https://kristaps.me/graphql-advances-with-swift/",
+    "author": {
+        "name": "Kristaps Grinbergs",
+        "url": "https://twitter.com/fassko"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
