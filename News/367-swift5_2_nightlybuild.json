@@ -1,7 +1,7 @@
 {
-    "title": "Swift 5.2 nightly builds available",
-    "description": "Swift 5.2 nightly development snapshots are available now.",
-    "url": "https://forums.swift.org/t/swift-5-2-nightly-development-snapshots/32356",
+    "title": "Swift 5.2 Nightly Development Snapshots are now available",
+    "description": "You can now try out the upcoming version of Swift that includes new features, performance improvements and the new diagnostic architecture.",
+    "url": "https://swift.org/download/#snapshots",
     "curator": {
         "name": "Irshad PC",
         "url": "https://twitter.com/_irshadpc"
