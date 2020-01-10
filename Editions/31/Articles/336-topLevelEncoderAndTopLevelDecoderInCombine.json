@@ -1,0 +1,14 @@
+{
+    "title": "TopLevelEncoder and TopLevelDecoder in Combine",
+    "edition": 31,
+    "tags": ["language"],
+    "url": "https://oleb.net/2020/topleveldecoder/",
+    "author": {
+        "name": "Ole Begemann",
+        "url": "https://twitter.com/olebegemann"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "title": "Writing reusable Swift extensions",
+    "edition": 31,
+    "tags": ["language"],
+    "url": "https://swiftbysundell.com/articles/writing-reusable-swift-extensions/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

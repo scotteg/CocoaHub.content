@@ -1,0 +1,14 @@
+{
+    "title": "EXC_BAD_ACCESS crash error: Understanding and solving it",
+    "edition": 31,
+    "tags": ["debugging"],
+    "url": "https://www.avanderlee.com/swift/exc-bad-access-crash/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
