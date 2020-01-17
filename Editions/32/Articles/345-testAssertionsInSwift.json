@@ -1,0 +1,14 @@
+{
+    "title": "Test assertions in Swift",
+    "edition": 32,
+    "tags": ["testing"],
+    "url": "https://www.swiftbysundell.com/articles/test-assertions-in-swift/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    }
+}

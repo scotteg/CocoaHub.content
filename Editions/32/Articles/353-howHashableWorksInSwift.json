@@ -1,0 +1,14 @@
+{
+    "title": "How Hashable works in Swift",
+    "edition": 32,
+    "tags": ["language"],
+    "url": "https://swiftrocks.com/how-hashable-works-in-swift.html",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockthebruno"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

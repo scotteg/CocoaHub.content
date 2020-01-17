@@ -1,0 +1,14 @@
+{
+    "title": "Understanding Combine’s publishers and subscribers",
+    "edition": 32,
+    "tags": ["language"],
+    "url": "https://www.donnywals.com/understanding-combines-publishers-and-subscribers/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    }
+}

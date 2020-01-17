@@ -1,0 +1,14 @@
+{
+    "title": "Goodbye, Clean Code",
+    "edition": 32,
+    "tags": ["other"],
+    "url": "https://overreacted.io/goodbye-clean-code/",
+    "author": {
+        "name": "Dan Abramov",
+        "url": "https://www.twitter.com/dan_abramov"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}
