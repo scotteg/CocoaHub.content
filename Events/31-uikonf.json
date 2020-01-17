@@ -7,6 +7,7 @@
     "country": "Germany",
     "city": "Berlin",
     "tags": [
-        "tickets"
+        "tickets",
+        "callForPapers"
     ]
 }
