@@ -1,13 +1,12 @@
 {
      "title": "On the road to Swift 6",
-     "description": "We the Swift community are working to build a programming language to empower everyone to turn their ideas into apps on any platform. What do you think?",
+     "description": "“Another goal of Swift is to provide a fantastic developer experience. Simply put, developers should be both highly productive and experience joy when programming in Swift.“",
      "url": "https://forums.swift.org/t/on-the-road-to-swift-6/32862",
      "curator": {
          "name": "Irshad PC",
          "url": "https://twitter.com/_irshadpc"
      },
      "tags": [
-         "evolution",
-         "apple"
+         "evolution"
      ]
  }
