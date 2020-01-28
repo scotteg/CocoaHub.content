@@ -1,0 +1,12 @@
+{
+    "title": "SwiftPM support for Swift scripts",
+    "description": " Rahul Malik, Ankit Aggarwal and David Hart create a pitch on allowing Swift scripts to import frameworks via Swift Package Manager. What do you think?",
+    "url": "https://forums.swift.org/t/swiftpm-support-for-swift-scripts/33126",
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
