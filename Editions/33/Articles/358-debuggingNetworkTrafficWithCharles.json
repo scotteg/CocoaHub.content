@@ -1,0 +1,14 @@
+{
+    "title": "Debugging network traffic with Charles",
+    "edition": 33,
+    "tags": ["debugging"],
+    "url": "https://www.donnywals.com/debugging-network-traffic-with-charles/",
+    "author": {
+        "name": "Donny Wals",
+        "url": "https://twitter.com/DonnyWals"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    }
+}

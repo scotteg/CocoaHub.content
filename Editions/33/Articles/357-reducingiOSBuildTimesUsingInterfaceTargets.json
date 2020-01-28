@@ -1,0 +1,14 @@
+{
+    "title": "Reducing iOS Build Times by using Interface Targets",
+    "edition": 33,
+    "tags": ["architecture"],
+    "url": "https://swiftrocks.com/reducing-ios-build-times-by-using-interface-targets.html",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockthebruno"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    }
+}
