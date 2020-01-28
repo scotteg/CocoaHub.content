@@ -1,0 +1,12 @@
+{
+    "title": "SwiftPM support for Swift scripts",
+    "description": "It easier to manage dependencies within  scripts written in Swift. What do you think?",
+    "url": "https://forums.swift.org/t/swiftpm-support-for-swift-scripts/33126",
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "evolution"
+    ]
+}
