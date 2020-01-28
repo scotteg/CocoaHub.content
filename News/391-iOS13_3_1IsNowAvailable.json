@@ -1,0 +1,12 @@
+{
+    "title": "Apple releases new updates for all its platforms",
+    "description": "Apple releases macOS Catalina 10.15.3, iOS 13.3.1, iOS 12.4.5, iPadOS 13.3.1, watchOS 6.1.2 and tvOS 13.3.1.",
+    "url": "https://developer.apple.com/news/releases/",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "apple"
+    ]
+}
