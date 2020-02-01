@@ -1,0 +1,14 @@
+{
+    "title": "Swift’s closure capturing mechanics",
+    "edition": 34,
+    "tags": ["language"],
+    "url": "https://www.swiftbysundell.com/articles/swifts-closure-capturing-mechanics/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    }
+}
