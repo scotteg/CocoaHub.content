@@ -7,7 +7,11 @@
     "country": "Switzerland",
     "city": "Lugano",
     "tags": [
-        "tickets",
-        "callForPapers"
-    ]
+        "tickets"
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 46.005185,
+        "longitude": 8.956374
+    }
 }

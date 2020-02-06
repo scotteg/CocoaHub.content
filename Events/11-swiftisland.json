@@ -7,9 +7,9 @@
     "country": "Netherlands",
     "city": "Texel",
     "tags": [],
-    "isActive": false
-    "coordinates": [
+    "isActive": false,
+    "coordinates": {
         "latitute": 53.114910,
         "longitude": 4.897113
-    ]
+    }
 }

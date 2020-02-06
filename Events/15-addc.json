@@ -11,8 +11,8 @@
         "callForPapers"
     ],
     "isActive": true,
-    "coordinates": [
+    "coordinates": {
         "latitute": 41.389561,
         "longitude": 2.136983
-    ]
+    }
 }

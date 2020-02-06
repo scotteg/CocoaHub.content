@@ -8,8 +8,8 @@
     "city": "Copenhagen",
     "tags": [],
     "isActive": false,
-    "coordinates": [
+    "coordinates": {
         "latitute": 55.672446,
         "longitude": 12.578607
-    ]
+    }
 }

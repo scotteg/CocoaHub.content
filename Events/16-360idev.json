@@ -8,8 +8,8 @@
     "city": "Denver",
     "tags": ["callForPapers", "tickets"],
     "isActive": true,
-    "coordinates": [
+    "coordinates": {
         "latitute": 39.745736,
         "longitude": -104.988833
-    ]
+    }
 }

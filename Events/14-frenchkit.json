@@ -8,8 +8,8 @@
     "city": "Paris",
     "tags": [],
     "isActive": false,
-    "coordinates": [
+    "coordinates": {
         "latitute": 48.815379,
         "longitude": 2.317579
-    ]
+    }
 }

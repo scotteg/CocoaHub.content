@@ -8,8 +8,8 @@
     "endDate": "2019-10-04T12:00:00+0000",
     "country": "Poland",
     "city": "Kraków",
-    "coordinates": [
+    "coordinates": {
         "latitute": 50.087840,
         "longitude": 19.978740
-    ]
+    }
 }

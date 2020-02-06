@@ -7,9 +7,9 @@
     "country": "United Kingdom",
     "city": "Bath",
     "tags": ["tickets"],
-    "isActive": true
-    "coordinates": [
+    "isActive": true,
+    "coordinates": {
         "latitute": 51.381636,
         "longitude": -2.365150
-    ]
+    }
 }

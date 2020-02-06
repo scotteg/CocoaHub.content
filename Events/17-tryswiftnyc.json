@@ -10,8 +10,8 @@
         "tickets"
     ],
     "isActive": true,
-    "coordinates": [
+    "coordinates": {
         "latitute": 40.762852,
         "longitude": -73.987525
-    ]
+    }
 }

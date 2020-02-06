@@ -9,5 +9,10 @@
     "tags": [
         "tickets",
         "callForPapers"
-    ]
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 52.510386,
+        "longitude": 13.428729
+    }
 }

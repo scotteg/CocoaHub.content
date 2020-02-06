@@ -8,8 +8,8 @@
     "city": "Bangalore",
     "tags": [],
     "isActive": false,
-    "coordinates": [
+    "coordinates": {
         "latitute": 12.970857,
         "longitude": 77.608269
-    ]
+    }
 }

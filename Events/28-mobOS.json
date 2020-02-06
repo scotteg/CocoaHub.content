@@ -8,5 +8,10 @@
     "city": "Cluj-Napoca",
     "tags": [
         "tickets"
-    ]
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 46.752246,
+        "longitude": 23.576544
+    }
 }

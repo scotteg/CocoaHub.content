@@ -8,8 +8,8 @@
     "city": "Boston",
     "tags": ["tickets"],
     "isActive": false,
-    "coordinates": [
+    "coordinates": {
         "latitute": 42.344652,
         "longitude": -71.070856
-    ]
+    }
 }

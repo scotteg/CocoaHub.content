@@ -8,8 +8,8 @@
     "city": "Oslo",
     "tags": ["tickets"],
     "isActive": false,
-    "coordinates": [
+    "coordinates": {
         "latitute": 59.9101662,
         "longitude": 10.7250782
-    ]
+    }
 }

@@ -8,8 +8,8 @@
     "city": "Bologna",
     "tags": ["callForPapers"],
     "isActive": true,
-    "coordinates": [
+    "coordinates": {
         "latitute": 44.509722,
         "longitude": 11.385328
-    ]
+    }
 }

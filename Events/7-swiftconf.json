@@ -8,8 +8,8 @@
     "city": "Cologne",
     "tags": ["tickets"],
     "isActive": false,
-    "coordinates": [
+    "coordinates": {
         "latitute": 50.9406,
         "longitude": 6.99254
-    ]
+    }
 }

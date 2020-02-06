@@ -7,9 +7,9 @@
     "country": "Italy",
     "city": "Turin",
     "tags": ["tickets"],
-    "isActive": false
-    "coordinates": [
+    "isActive": false,
+    "coordinates": {
         "latitute": 45.030856,
         "longitude": 7.665067
-    ]
+    }
 }

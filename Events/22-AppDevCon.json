@@ -8,5 +8,10 @@
     "city": "Amsterdam",
     "tags": [
       "tickets"
-    ]
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 52.366477,
+        "longitude": 4.894113
+    }
 }

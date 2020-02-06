@@ -7,7 +7,11 @@
     "country": "United States of America",
     "city": "Hawaii",
     "tags": [
-      "tickets",
-      "callForPapers"
-    ]
+      "tickets"
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 20.919902,
+        "longitude": -156.694986
+    }
 }

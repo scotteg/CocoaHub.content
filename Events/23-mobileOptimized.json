@@ -6,7 +6,10 @@
     "endDate": "2020-10-17T23:00:00+0000",
     "country": "Belarus",
     "city": "Minsk",
-    "tags": [
-        "tickets"
-    ]
+    "tags": ["tickets"],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 53.900805,
+        "longitude": 27.558348
+    }
 }

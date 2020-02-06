@@ -8,5 +8,10 @@
     "city": "Leeds",
     "tags": [
         "tickets"
-    ]
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 53.801229,
+        "longitude": -1.547879
+    }
 }
