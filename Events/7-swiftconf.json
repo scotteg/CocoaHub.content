@@ -6,7 +6,10 @@
     "endDate": "2019-08-29T12:00:00+0000",
     "country": "Gernmany",
     "city": "Cologne",
-    "tags": [
-        "tickets"
+    "tags": ["tickets"],
+    "isActive": false,
+    "coordinates": [
+        "latitute": 50.9406,
+        "longitude": 6.99254
     ]
 }

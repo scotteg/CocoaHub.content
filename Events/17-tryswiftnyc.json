@@ -8,5 +8,10 @@
     "city": "New York City",
     "tags": [
         "tickets"
+    ],
+    "isActive": true,
+    "coordinates": [
+        "latitute": 40.762852,
+        "longitude": -73.987525
     ]
 }

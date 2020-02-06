@@ -8,5 +8,10 @@
     "city": "London",
     "tags": [
         "tickets"
+    ],
+    "isActive": true
+    "coordinates": [
+        "latitute": 51.520248,
+        "longitude": -0.093754
     ]
 }

@@ -8,5 +8,10 @@
     "city": "Singapore",
     "tags": [
         "tickets"
+    ],
+    "isActive": false
+    "coordinates": [
+        "latitute": 1.293232,
+        "longitude": 103.773682
     ]
 }

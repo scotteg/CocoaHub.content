@@ -6,7 +6,10 @@
     "endDate": "2019-11-08T12:00:00+0000",
     "country": "Norway",
     "city": "Oslo",
-    "tags": [
-        "tickets",
+    "tags": ["tickets"],
+    "isActive": false,
+    "coordinates": [
+        "latitute": 59.9101662,
+        "longitude": 10.7250782
     ]
 }

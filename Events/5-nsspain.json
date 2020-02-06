@@ -7,4 +7,9 @@
     "country": "Spain",
     "city": "Logroño",
     "tags": []
+    "isActive": false,
+    "coordinates": [
+        "latitute": 42.471756,
+        "longitude": -2.430231
+    ]
 }

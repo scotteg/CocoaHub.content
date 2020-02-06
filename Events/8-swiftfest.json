@@ -6,7 +6,10 @@
     "endDate": "2019-07-30T12:00:00+0000",
     "country": "United States of America",
     "city": "Boston",
-    "tags": [
-        "tickets"
+    "tags": ["tickets"],
+    "isActive": false,
+    "coordinates": [
+        "latitute": 42.344652,
+        "longitude": -71.070856
     ]
 }

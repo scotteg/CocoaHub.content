@@ -7,4 +7,9 @@
     "country": "Australia",
     "city": "Melbourne",
     "tags": []
+    "isActive": false,
+    "coordinates": [
+        "latitute": -37.808044,
+        "longitude": 144.962699
+    ]
 }

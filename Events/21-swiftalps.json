@@ -8,5 +8,10 @@
     "city": "Crans-Montana",
     "tags": [
     	"tickets"
+    ],
+    "isActive": false,
+    "coordinates": [
+        "latitute": 46.305370,
+        "longitude": 7.462128
     ]
 }
