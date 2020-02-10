@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.hackingwithswift.com/100/swiftui",
+  "id" : 196,
+  "title" : "100 days of SwiftUI",
+  "date" : "2019-09-22T20:00:41Z",
+  "description" : "After “100 days of Swift“ huge success, Paul Hudson announces a new free and beginner-friendly course focused on SwiftUI.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

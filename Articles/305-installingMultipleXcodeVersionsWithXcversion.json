@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Installing multiple Xcode versions with xcversion",
+  "url" : "https://www.donnywals.com/installing-multiple-xcode-versions-with-xcversion/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 28
+}

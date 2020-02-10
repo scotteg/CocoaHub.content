@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0261-identifiable-protocol/26602",
+  "id" : 58,
+  "title" : "SE-0261: Identifiable Protocol",
+  "date" : "2019-07-05T22:15:00Z",
+  "description" : "This proposal introduces a protocol called Identifiable that could be useful for diff algorithms, UI libraries, and more! What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Derik Ramirez",
+    "url" : "https://twitter.com/rderik"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Using BSD Sockets",
+  "url" : "https://rderik.com/blog/using-bsd-sockets-in-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 16
+}

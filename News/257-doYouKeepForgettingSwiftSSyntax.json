@@ -1,0 +1,14 @@
+{
+  "url" : "https://swiftly.dev/",
+  "id" : 265,
+  "title" : "Do you keep forgetting Swift's syntax?",
+  "date" : "2019-10-30T10:52:51Z",
+  "description" : "If so, Eugene Belinski's latest project, Swiftly, might be able to help you. It's a website that covers Swift's syntax on multiple topics with lots of examples.",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "community"
+  ]
+}

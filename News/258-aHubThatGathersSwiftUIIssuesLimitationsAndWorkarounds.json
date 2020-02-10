@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/ryangittings/swiftui-bugs",
+  "id" : 266,
+  "title" : "A hub that gathers SwiftUI issues, limitations and workarounds",
+  "date" : "2019-10-30T10:53:05Z",
+  "description" : "SwiftUI isn't perfect in its current state. It has multiple issues and limitations and no place where you can find them all. Considering this, Ryan Gittings created an open-source repository where you can find issues, limitations and workarounds.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

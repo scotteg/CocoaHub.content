@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Andreas Lüdemann",
+    "url" : "https://twitter.com/andreaslydemann"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Continous integration using GitHub Actions for iOS projects",
+  "url" : "https://andreaslydemann.com/continuous-integration-using-github-actions-for-ios-projects/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 31
+}

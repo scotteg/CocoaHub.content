@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/30691",
+  "id" : 288,
+  "title" : "SE-0270: Add Collection Operations on Noncontiguous Elements",
+  "date" : "2019-11-12T00:21:54Z",
+  "description" : "Nate Cook proposes the addition of a RangeSet type able to store any number of positions, along with collection algorithms that operate on those positions. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

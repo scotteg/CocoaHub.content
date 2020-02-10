@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/documentation/macos_release_notes/macos_catalina_10_15_beta_4_release_notes",
+  "id" : 79,
+  "title" : "macOS Catalina 10.15 Beta 4 is out!",
+  "date" : "2019-07-17T09:36:00Z",
+  "description" : "“Using Xcode 11 beta 3 with macOS Catalina beta 4 prevents SwiftUI previews from working. Update to Xcode 11 beta 4 when it becomes available.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

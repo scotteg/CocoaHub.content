@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0267-where-clauses-on-contextually-generic-declarations/30051",
+  "id" : 250,
+  "title" : "SE-0267: where clauses on contextually generic declarations",
+  "date" : "2019-10-21T21:55:19Z",
+  "description" : "A proposal by Anthony Latsis that “aims to lift the mostly artificial restriction on attaching where clauses to declarations that reference only outer generic parameters“. Do you agree?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

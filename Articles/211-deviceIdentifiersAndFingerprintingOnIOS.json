@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Mattt",
+    "url" : "https://twitter.com/mattt"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Device Identifiers and Fingerprinting on iOS",
+  "url" : "https://nshipster.com/device-identifiers/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 21
+}

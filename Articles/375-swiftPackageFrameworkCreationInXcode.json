@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Swift Package framework creation in Xcode",
+  "url" : "https://www.avanderlee.com/swift/creating-swift-package-manager-framework/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 35
+}

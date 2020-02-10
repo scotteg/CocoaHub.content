@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/apple/swift-format/pull/1",
+  "id" : 69,
+  "title" : "Initial implementation of Apple's swift-format",
+  "date" : "2019-07-11T10:04:00Z",
+  "description" : "After a successful proposal review that started on March 19, Tony Allevato is opening a pull request with the initial implementation of the official Swift's linter and formatter, swift-format.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

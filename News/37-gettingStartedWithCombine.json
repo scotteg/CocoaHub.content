@@ -1,0 +1,14 @@
+{
+  "url" : "https://beta.apple.com/sp/betaprogram/",
+  "id" : 38,
+  "title" : "Getting started with Combine",
+  "date" : "2019-06-26T20:31:00Z",
+  "description" : "Don't know where or how to start learning Apple's new framework Combine? Antoine v.d. Lee built a playground for that!",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

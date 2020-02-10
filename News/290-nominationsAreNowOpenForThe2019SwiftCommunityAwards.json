@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.hackingwithswift.com/awards",
+  "id" : 299,
+  "title" : "Nominations are now open for the 2019 Swift Community Awards",
+  "date" : "2019-11-15T10:02:33Z",
+  "description" : "During the first phase of Paul Hudson's annual event you'll be able to write whoever or whatever you think should win in each specific category.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/?id=12102019h",
+  "id" : 334,
+  "title" : "Xcode 11.3 is now available",
+  "date" : "2019-12-10T22:48:39Z",
+  "description" : "”Xcode 11.3 includes SDKs for iOS 13.2, macOS Catalina 10.15, watchOS 6.1, and tvOS 13.2.”",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

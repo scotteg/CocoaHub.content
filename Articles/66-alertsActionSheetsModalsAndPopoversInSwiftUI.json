@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Alerts, ActionSheets, Modals and Popovers in SwiftUI",
+  "url" : "https://mecid.github.io/2019/07/24/alerts-actionsheets-modals-and-popovers-in-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 7
+}

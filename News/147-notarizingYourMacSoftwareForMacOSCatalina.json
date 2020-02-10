@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/?id=09032019a",
+  "id" : 154,
+  "title" : "Notarizing Your Mac Software for macOS Catalina",
+  "date" : "2019-09-04T08:49:20Z",
+  "description" : "Apple reminds developers that starting in Catalina software distributed outside the App Store must be notarized by Apple. The deadline has been adjusted to January 2020.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

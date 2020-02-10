@@ -1,13 +1,14 @@
 {
-    "title": "SE-0258: Property Wrappers",
-    "description": "Property Wrappers are up for a second review after the revisions of its first one.",
-    "date": "2019-06-14T20:12:00+0000",
-    "url": "https://forums.swift.org/t/se-0258-property-wrappers-second-review/25843",
-    "curator": {
-        "name": "Pedro Carrasco",
-        "url": "https://twitter.com/pedrommcarrasco"
-    },
-    "tags": [
-        "evolution"
-    ]
+  "url" : "https://forums.swift.org/t/se-0258-property-wrappers-second-review/25843",
+  "id" : 18,
+  "title" : "SE-0258: Property Wrappers",
+  "date" : "2019-06-14T20:12:00Z",
+  "description" : "Property Wrappers are up for a second review after the revisions of its first one.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
 }

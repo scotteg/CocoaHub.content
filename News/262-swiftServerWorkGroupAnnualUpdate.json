@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/blog/sswg-update/",
+  "id" : 270,
+  "title" : "Swift Server Work Group annual update",
+  "date" : "2019-10-31T17:15:58Z",
+  "description" : "“Swift on server is being used in production everywhere by huge and small companies alike. We need to do a better job of showing people this.“.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Patrick Balestra",
+    "url" : "https://twitter.com/BalestraPatrick"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "When in Rome: How Spotify halved build times with just one script",
+  "url" : "https://labs.spotify.com/2019/10/23/when-in-rome-how-spotify-halved-build-times-with-just-one-script/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 20
+}

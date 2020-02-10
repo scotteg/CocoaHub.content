@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Sarun W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "tooling",
+    "workflow"
+  ],
+  "title" : "GitHub Actions for iOS projects",
+  "url" : "https://sarunw.com/posts/github-actions-for-ios-projects/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 22
+}

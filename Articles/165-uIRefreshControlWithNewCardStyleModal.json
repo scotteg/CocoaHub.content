@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Sarum W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "ui"
+  ],
+  "title" : "UIRefreshControl with new card style modal",
+  "url" : "https://sarunw.com/tips/uirefreshcontrol-with-new-card-style-modal/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 17
+}

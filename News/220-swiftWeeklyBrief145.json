@@ -1,0 +1,14 @@
+{
+  "url" : "https://swiftweekly.github.io/issue-145/",
+  "id" : 228,
+  "title" : "Swift Weekly Brief 145",
+  "date" : "2019-10-10T18:47:13Z",
+  "description" : "Bas Broek sums up what has been happening in the Swift open source projects at Swift.org for the past two weeks.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
+}

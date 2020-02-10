@@ -1,0 +1,14 @@
+{
+  "url" : "https://twitter.com/v_pradeilles/status/1139302603400110080",
+  "id" : 13,
+  "title" : "Did you know about XCTUnwrap?",
+  "date" : "2019-06-14T11:00:00Z",
+  "description" : "Vincent Pradeilles shows how you'll be able to improve your tests by unwrapping a value with XCTUnwrap in Xcode 11.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

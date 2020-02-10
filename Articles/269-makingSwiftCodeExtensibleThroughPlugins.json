@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "architecture",
+    "language"
+  ],
+  "title" : "Making Swift code extensible through plugins",
+  "url" : "https://www.swiftbysundell.com/articles/making-swift-code-extensible-through-plugins/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 26
+}

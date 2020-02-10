@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Dynamic Member Lookup combined with key paths",
+  "url" : "https://www.avanderlee.com/swift/dynamic-member-lookup/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 1
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Architecting a robust networking layer with protocols",
+  "url" : "https://www.donnywals.com/architecting-a-robust-networking-layer-with-protocols/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 28
+}

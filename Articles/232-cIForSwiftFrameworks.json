@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Alexander Grebenyuk",
+    "url" : "https://twitter.com/a_grebenyuk"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "CI for Swift Frameworks",
+  "url" : "https://kean.github.io/post/ci-for-frameworks",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 23
+}

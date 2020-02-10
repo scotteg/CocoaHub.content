@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Using compositional collection view layouts in iOS 13",
+  "url" : "https://www.donnywals.com/using-compositional-collection-view-layouts-in-ios-13/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 29
+}

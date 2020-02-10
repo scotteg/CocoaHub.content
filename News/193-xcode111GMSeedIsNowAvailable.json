@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/documentation/xcode_release_notes/xcode_11_1_release_notes/",
+  "id" : 201,
+  "title" : "Xcode 11.1 GM seed is now available",
+  "date" : "2019-09-24T19:15:07Z",
+  "description" : "This release includes SDKs for iOS 13.1, macOS Catalina 10.15, watchOS 6 and tvOS 13.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

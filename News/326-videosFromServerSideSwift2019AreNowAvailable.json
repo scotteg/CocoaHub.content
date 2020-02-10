@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.serversideswift.info/2019/videos",
+  "id" : 336,
+  "title" : "Videos from ServerSide.swift 2019 are now available",
+  "date" : "2019-12-12T16:43:14Z",
+  "description" : "Swift on the Server is growing quickly and there's even a conference dedicated to it. Learn more about it with 15 talks focused on this topic.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

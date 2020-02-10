@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 89,
+  "title" : "New updates for the operating systems",
+  "date" : "2019-07-23T10:25:00Z",
+  "description" : "These include macOS Mojave 10.14.6, iOS 12.4, watchOS 5.3 and tvOS 12.4.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

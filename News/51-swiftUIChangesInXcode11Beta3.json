@@ -1,0 +1,14 @@
+{
+  "url" : "https://sarunw.com/posts/swiftui-changes-in-xcode-11-beta-3",
+  "id" : 57,
+  "title" : "SwiftUI changes in Xcode 11 beta 3",
+  "date" : "2019-07-04T15:15:00Z",
+  "description" : "After the latest beta of Xcode 11, Sarun highlights what changed in some SwiftUI's components.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

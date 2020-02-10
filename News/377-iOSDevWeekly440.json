@@ -1,0 +1,14 @@
+{
+  "url" : "https://iosdevweekly.com/issues/440#start",
+  "id" : 387,
+  "title" : "iOS Dev Weekly 440",
+  "date" : "2020-01-24T18:22:56Z",
+  "description" : "Read Dave's curated selection of articles, news & tools from this week.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/pitch-offset-indexing-and-slicing/28333",
+  "id" : 148,
+  "title" : "Offset Indexing and Slicing",
+  "date" : "2019-08-28T23:11:51Z",
+  "description" : "A new pitch by Michael Ilseman on offset-based indexing and slicing with convenient subscripts. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Federico Zanetello",
+    "url" : "https://twitter.com/zntfdr"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Swift 5.1 Collection Diffing",
+  "url" : "https://fivestars.blog/code/swift-5-1-collection-diffing.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 7
+}

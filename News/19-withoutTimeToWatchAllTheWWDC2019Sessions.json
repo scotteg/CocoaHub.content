@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/Blackjacx/WWDC",
+  "id" : 20,
+  "title" : "Without time to watch all the WWDC 2019 sessions?",
+  "date" : "2019-06-16T17:13:00Z",
+  "description" : "Worry no more because Stefan Herold wrote short summaries for each session.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

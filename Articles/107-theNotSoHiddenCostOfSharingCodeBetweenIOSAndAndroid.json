@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Eyal Guthmann",
+    "url" : "https://twitter.com/EyalGuthmann"
+  },
+  "tags" : [
+    "architecture",
+    "business"
+  ],
+  "title" : "The (not so) hidden cost of sharing code between iOS and Android",
+  "url" : "https://blogs.dropbox.com/tech/2019/08/the-not-so-hidden-cost-of-sharing-code-between-ios-and-android",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 10
+}

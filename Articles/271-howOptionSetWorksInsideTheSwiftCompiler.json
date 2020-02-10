@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "How OptionSet works inside the Swift Compiler",
+  "url" : "https://swiftrocks.com/how-optionset-works-inside-the-swift-compiler.html",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 26
+}

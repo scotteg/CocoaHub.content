@@ -1,0 +1,14 @@
+{
+  "url" : "https://webkit.org/tracking-prevention-policy/",
+  "id" : 125,
+  "title" : "Apple WebKit team releases its full “Tracking Prevention Policy“",
+  "date" : "2019-08-15T11:14:32Z",
+  "description" : "“This document describes the web tracking practices that WebKit believes, as a matter of policy, should be prevented by default by web browsers.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

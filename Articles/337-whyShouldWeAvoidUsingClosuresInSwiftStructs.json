@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Rizwan Ahmed",
+    "url" : "https://twitter.com/rizwanasifahmed"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Why should we avoid using closures in Swift structs?",
+  "url" : "https://ohmyswift.com/blog/2020/01/10/why-should-we-avoid-using-closures-in-swift-structs/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 32
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://vimeo.com/showcase/6319394",
+  "id" : 243,
+  "title" : "Videos from NSSpain 2019 are now available",
+  "date" : "2019-10-17T13:50:01Z",
+  "description" : "NSSpain releases the videos of the talks from their latest edition. There's more than 10 hours of content from UIKit to SwiftUI, Programming to Tooling, and more!",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

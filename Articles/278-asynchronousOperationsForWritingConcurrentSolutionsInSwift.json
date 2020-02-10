@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Asynchronous operations for writing concurrent solutions in Swift",
+  "url" : "https://www.avanderlee.com/swift/asynchronous-operations/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 27
+}

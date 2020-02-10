@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Alejandro Martinez",
+    "url" : "https://twitter.com/alexito4"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Improving SwiftUI modal presentation API",
+  "url" : "https://alejandromp.com/blog/2019/06/24/improving-swiftui-modal-presentation-api/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 3
+}

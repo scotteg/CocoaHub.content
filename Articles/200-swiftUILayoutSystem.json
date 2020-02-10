@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Alexander Grebenyuk",
+    "url" : "https://twitter.com/a_grebenyuk"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "SwiftUI Layout System",
+  "url" : "https://kean.github.io/post/swiftui-layout-system",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 20
+}

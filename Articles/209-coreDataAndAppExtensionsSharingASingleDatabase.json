@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "storage"
+  ],
+  "title" : "Core Data and App extensions: Sharing a single database",
+  "url" : "https://www.avanderlee.com/swift/core-data-app-extension-data-sharing/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 21
+}

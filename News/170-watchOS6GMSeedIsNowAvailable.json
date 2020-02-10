@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/?id=09112019a",
+  "id" : 177,
+  "title" : "watchOS 6 GM seed is now available",
+  "date" : "2019-09-12T00:16:00Z",
+  "description" : "Build your watchOS apps using Xcode 11 GM seed, test them on devices running the latest watchOS 6 GM seed and submit them for review.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

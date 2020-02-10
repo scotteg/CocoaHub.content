@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Axel Kee",
+    "url" : "https://twitter.com/soulchildpls"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Understanding Reference and Value type",
+  "url" : "https://fluffy.es/reference-vs-value-type/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 11
+}

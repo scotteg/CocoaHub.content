@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Adding haptic feedback to your app with CoreHaptics",
+  "url" : "https://www.donnywals.com/adding-haptics-to-your-app/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 25
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.whatsnewinswift.com/?from=5.1&to=5.2",
+  "id" : 411,
+  "title" : "What’s new in Swift 5.2?",
+  "date" : "2020-02-06T09:59:25Z",
+  "description" : "Paul Hudson gathers what's new in Swift 5.2 and even includes an interactive Xcode playground for you to try.",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "community"
+  ]
+}

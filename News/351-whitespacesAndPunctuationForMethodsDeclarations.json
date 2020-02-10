@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/pre-pitch-whitespaces-and-punctuation-for-methods-declarations/32073",
+  "id" : 361,
+  "title" : "Whitespaces and punctuation for methods declarations",
+  "date" : "2019-12-29T20:28:18Z",
+  "description" : "Alfredo Delli Bovi creates a pitch on extending the current grammar for every escaped property, method and types by allowing whitespaces and punctuation. What do you think?",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

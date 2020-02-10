@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Soroush Khanlou",
+    "url" : "http://www.twitter.com/khanlou"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Linear Probing",
+  "url" : "http://khanlou.com/2019/08/linear-probing/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 10
+}

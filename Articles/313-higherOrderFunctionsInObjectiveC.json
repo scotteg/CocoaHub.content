@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Marcel Voss",
+    "url" : "https://twitter.com/uimarcel"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Higher Order Functions in Objective-C",
+  "url" : "https://marcelvoss.com/2019/12/26/higher-order-functions-in-objective-c.html",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 29
+}

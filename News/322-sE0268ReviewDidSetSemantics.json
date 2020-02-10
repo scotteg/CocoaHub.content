@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0268-review-2-review-didset-semantics/31396",
+  "id" : 332,
+  "title" : "SE-0268: Review didSet semantics",
+  "date" : "2019-12-09T15:33:55Z",
+  "description" : "After returning for revision due to concerns when an implicit oldValue parameter is used, SE-0268 is now up for a second review. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/using-canimport-with-submodules-and-specific-types/26728",
+  "id" : 84,
+  "title" : "Using canImport with submodules and specific types",
+  "date" : "2019-07-19T22:00:00Z",
+  "description" : "There's a new pitch about adding the possibility of using canImport with submodules or specific types. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

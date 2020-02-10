@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Using UIView and UIViewController in SwiftUI",
+  "url" : "https://www.vadimbulavin.com/using-uikit-uiviewcontroller-and-uiview-in-swiftui/",
+  "curator" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "edition" : 35
+}

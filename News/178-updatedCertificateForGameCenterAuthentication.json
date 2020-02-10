@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/?id=09132019a",
+  "id" : 185,
+  "title" : "Updated certificate for Game Center authentication",
+  "date" : "2019-09-14T11:14:22Z",
+  "description" : "“A new certificate for server-based Game Center verification is available via the publicKeyUrl property of generateIdentityVerificationSignature. The previous certificate will no longer be available as of September 17, 2019“.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

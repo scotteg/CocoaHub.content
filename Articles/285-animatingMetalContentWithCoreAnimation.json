@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Noah Gilmore",
+    "url" : "https://twitter.com/noahsark769"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Animating Metal Content with CoreAnimation",
+  "url" : "https://noahgilmore.com/blog/coreanimation-metal/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 27
+}

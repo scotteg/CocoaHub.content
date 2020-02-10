@@ -1,0 +1,14 @@
+{
+  "url" : "https://swiftui.directory/",
+  "id" : 315,
+  "title" : "SwiftUI Directory",
+  "date" : "2019-11-26T10:58:20Z",
+  "description" : "Looking for a curated collection of open-source SwiftUI libraries? Reda Lemeden's latest website is here to help you!",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

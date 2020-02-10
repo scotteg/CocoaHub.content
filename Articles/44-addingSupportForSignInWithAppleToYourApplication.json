@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Julian Schiavo",
+    "url" : "https://twitter.com/justJS_dev"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Adding support for Sign in with Apple to your application",
+  "url" : "https://schiavo.me/2019/sign-in-with-apple/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 5
+}

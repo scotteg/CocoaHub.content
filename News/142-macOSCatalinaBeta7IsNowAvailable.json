@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/documentation/macos_release_notes/macos_10_15_beta_release_notes/",
+  "id" : 149,
+  "title" : "macOS Catalina Beta 7 is now available",
+  "date" : "2019-08-28T23:19:24Z",
+  "description" : "This beta makes macOS Catalina compatible with the seventh beta of Xcode 11.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

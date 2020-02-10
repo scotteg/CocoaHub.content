@@ -1,0 +1,14 @@
+{
+  "url" : "https://fuckingswiftui.com",
+  "id" : 35,
+  "title" : "F*cking SwiftUI",
+  "date" : "2019-06-23T16:01:00Z",
+  "description" : "After F*cking Block Syntax & F*cking ScrollView AutoLayout, Sarun Wongpatcharapakorn brings you a whole new site dedicated to SwiftUI.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

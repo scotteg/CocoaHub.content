@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "debugging",
+    "storage"
+  ],
+  "title" : "Using launch arguments for easier Core Data debugging",
+  "url" : "https://www.donnywals.com/using-launch-arguments-for-easier-core-data-debugging/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 26
+}

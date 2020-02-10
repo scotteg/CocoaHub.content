@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/accepted-se-0261-identifiable-protocol/27358",
+  "id" : 100,
+  "title" : "SE-0261: Identifiable Protocol is accepted!",
+  "date" : "2019-07-27T14:16:00Z",
+  "description" : "“The proposal was positively received as addressing a common need for which a standard protocol is appropriate.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

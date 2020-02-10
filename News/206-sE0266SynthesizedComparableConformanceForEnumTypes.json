@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0266-synthesized-comparable-conformance-for-enum-types/29457",
+  "id" : 214,
+  "title" : "SE-0266: Synthesized Comparable conformance for enum types",
+  "date" : "2019-10-02T09:10:15Z",
+  "description" : "A proposal by Kelvin Ma that “seeks to allow users to opt-in to synthesized Comparable conformances for enum types without raw values or associated values not themselves conforming to Comparable“. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

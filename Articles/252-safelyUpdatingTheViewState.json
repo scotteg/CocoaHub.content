@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Javier",
+    "url" : "https://twitter.com/SwiftUILab"
+  },
+  "tags" : [
+    "other",
+    "ui"
+  ],
+  "title" : "Safely updating the View state",
+  "url" : "https://swiftui-lab.com/state-changes/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 24
+}

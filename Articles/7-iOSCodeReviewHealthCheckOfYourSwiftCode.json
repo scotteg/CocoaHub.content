@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Benoit Pasquier",
+    "url" : "https://github.com/popei69"
+  },
+  "tags" : [
+    "tipsAndTricks"
+  ],
+  "title" : "iOS Code Review - Health check of your Swift code",
+  "url" : "https://benoitpasquier.com/code-review-health-check-of-swift-code/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 1
+}

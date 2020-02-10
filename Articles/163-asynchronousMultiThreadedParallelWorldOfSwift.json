@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Leo Dion",
+    "url" : "https://twitter.com/leogdion"
+  },
+  "tags" : [
+    "language",
+    "other"
+  ],
+  "title" : "Asynchronous Multi-Threaded Parallel World of Swift",
+  "url" : "https://learningswift.brightdigit.com/asynchronous-multi-threaded-parallel-world-of-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 17
+}

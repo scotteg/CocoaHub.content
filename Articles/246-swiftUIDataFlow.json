@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "TrozWare",
+    "url" : "https://twitter.com/trozware"
+  },
+  "tags" : [
+    "architecture",
+    "ui"
+  ],
+  "title" : "SwiftUI Data Flow",
+  "url" : "https://troz.net/post/2019/swiftui-data-flow/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 24
+}

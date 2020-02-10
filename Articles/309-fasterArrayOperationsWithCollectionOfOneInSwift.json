@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Faster Array Operations With CollectionOfOne in Swift",
+  "url" : "https://swiftrocks.com/faster-swift-array-operations-with-collectionofone.html",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 29
+}

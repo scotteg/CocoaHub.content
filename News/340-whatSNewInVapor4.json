@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/whats-new-in-vapor-4/31832",
+  "id" : 350,
+  "title" : "What's new in Vapor 4",
+  "date" : "2019-12-19T11:38:29Z",
+  "description" : "Vapor 4 introduces a new dependency injection API, integration with the new Swift Server Working Group ecosystem, new Model API, HTTP/2, APNS and much more!",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "community"
+  ]
+}

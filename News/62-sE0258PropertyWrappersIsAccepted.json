@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/accepted-with-modification-se-0258-property-wrappers/26828",
+  "id" : 68,
+  "title" : "SE-0258: Property Wrappers is accepted!",
+  "date" : "2019-07-10T23:16:00Z",
+  "description" : "After its third review, Property Wrappers was accepted by the community and the Core Team. There'll only be one minor change, suggested by the community, but it won't require a further review.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

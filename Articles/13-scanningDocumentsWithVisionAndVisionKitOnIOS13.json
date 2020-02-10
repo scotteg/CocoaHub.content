@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Julian Schiavo",
+    "url" : "https://twitter.com/justJS_dev"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Scanning documents with Vision and VisionKit on iOS 13",
+  "url" : "https://schiavo.me/2019/scanning-documents/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 2
+}

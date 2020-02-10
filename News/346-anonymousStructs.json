@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/anonymous-structs/31424",
+  "id" : 356,
+  "title" : "Anonymous Structs",
+  "date" : "2019-12-21T19:19:19Z",
+  "description" : "Matthew Johnson and Nickolas Pokhylets pitch about introducing “anonymous structs using closure-inspired syntactic sugar as an alternative to a more verbose local struct declaration“. What do you think?",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

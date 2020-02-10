@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "debugging"
+  ],
+  "title" : "Advanced lldb tricks for Swift - Injecting and changing code on the fly",
+  "url" : "https://swiftrocks.com/using-lldb-manually-xcode-console-tricks.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 9
+}

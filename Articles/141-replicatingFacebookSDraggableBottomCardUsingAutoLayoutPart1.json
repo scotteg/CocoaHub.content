@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Axel Kee",
+    "url" : "https://twitter.com/soulchildpls"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Replicating Facebook's draggable bottom card using Auto Layout - Part 1",
+  "url" : "https://fluffy.es/facebook-draggable-bottom-card-modal-1/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 14
+}

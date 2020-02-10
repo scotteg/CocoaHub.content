@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "language",
+    "ui"
+  ],
+  "title" : "Creating a custom Combine Publisher to extend UIKit",
+  "url" : "https://www.avanderlee.com/swift/custom-combine-publisher/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 4
+}

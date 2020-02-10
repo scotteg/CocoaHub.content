@@ -1,0 +1,14 @@
+{
+  "url" : "https://iosdevweekly.com/issues/413#start",
+  "id" : 85,
+  "title" : "iOS Dev Weekly 413",
+  "date" : "2019-07-19T21:59:00Z",
+  "description" : "Read Dave's curated selection of articles, news & tools from this week.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
+}

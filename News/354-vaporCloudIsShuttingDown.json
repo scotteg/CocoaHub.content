@@ -1,0 +1,14 @@
+{
+  "url" : "https://docs.vapor.cloud/shutdown/",
+  "id" : 364,
+  "title" : "Vapor Cloud is shutting down",
+  "date" : "2020-01-02T15:35:05Z",
+  "description" : "“We are sad to announce that Vapor Cloud will be shutting down on February 29th. After Vapor Cloud shuts down, all active replicas, databases, and caches will become unavailable.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

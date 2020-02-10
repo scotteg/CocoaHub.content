@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftbysundell.com/podcast/55",
+  "id" : 152,
+  "title" : "Swift by Sundell Podcast 55: “A whole new world”",
+  "date" : "2019-08-30T16:00:40Z",
+  "description" : "Join John Sundell and his special guest Marin Todorov and hear them talking about bridging the cap between UIKit, Combine and SwiftUI, open source and much more!",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

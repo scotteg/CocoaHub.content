@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Maxim Eremenko",
+    "url" : "https://twitter.com/eremenko_maxim"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Efficient Random Access on Swift String",
+  "url" : "https://maximeremenko.com/string-random-access",
+  "curator" : {
+    "name" : "Maxim Eremenko",
+    "url" : "https://twitter.com/eremenko_maxim"
+  },
+  "edition" : 20
+}

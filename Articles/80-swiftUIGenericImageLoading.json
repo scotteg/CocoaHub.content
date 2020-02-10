@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Sebastian Osiński",
+    "url" : "https://github.com/SebastianOsinski"
+  },
+  "tags" : [
+    "language",
+    "ui"
+  ],
+  "title" : "SwiftUI Generic Image Loading",
+  "url" : "https://osinski.dev/posts/swiftui-image-loading/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 8
+}

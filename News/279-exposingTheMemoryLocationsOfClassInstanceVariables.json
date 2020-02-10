@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/30584",
+  "id" : 287,
+  "title" : "Exposing the Memory Locations of Class Instance Variables",
+  "date" : "2019-11-10T22:11:33Z",
+  "description" : "Karoy Lorentey pitches on enabling “Swift code to retrieve the memory location of any directly addressable stored property in a class an an UnsafeMutablePointer“. What do you think?",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

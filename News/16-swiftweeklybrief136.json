@@ -1,13 +1,14 @@
 {
-    "title": "Swift Weekly Brief 136",
-    "description": "Join Bas Broek in a relatively quiet week when it comes to the Swift forum.",
-    "date": "2019-06-14T19:08:00+0000",
-    "url": "https://swiftweekly.github.io/issue-136/",
-    "curator": {
-        "name": "Pedro Carrasco",
-        "url": "https://twitter.com/pedrommcarrasco"
-    },
-    "tags": [
-        "newsletter"
-    ]
+  "url" : "https://swiftweekly.github.io/issue-136/",
+  "id" : 16,
+  "title" : "Swift Weekly Brief 136",
+  "date" : "2019-06-14T19:08:00Z",
+  "description" : "Join Bas Broek in a relatively quiet week when it comes to the Swift forum.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
 }

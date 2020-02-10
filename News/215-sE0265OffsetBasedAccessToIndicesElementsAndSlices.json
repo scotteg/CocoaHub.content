@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/29596",
+  "id" : 223,
+  "title" : "SE-0265: Offset-Based Access to Indices, Elements, and Slices",
+  "date" : "2019-10-07T18:44:54Z",
+  "description" : "Michael Ilseman introduces OffsetBound as a way of representing a position in a collection as an offset from the its bounds. The main goal is to provide a more convenient and expressive abstraction over indices. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

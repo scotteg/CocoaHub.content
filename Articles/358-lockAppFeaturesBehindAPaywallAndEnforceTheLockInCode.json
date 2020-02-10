@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Christian Tietze",
+    "url" : "https://twitter.com/ctietze"
+  },
+  "tags" : [
+    "architecture",
+    "other"
+  ],
+  "title" : "Lock App Features Behind a Paywall and Enforce the Lock in Code",
+  "url" : "https://christiantietze.de/posts/2020/01/locked-features-preferences-layered-architecture/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 33
+}

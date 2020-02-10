@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Point-Free",
+    "url" : "https://twitter.com/pointfreeco"
+  },
+  "tags" : [
+    "testing"
+  ],
+  "title" : "Higher-Order Snapshot Testing",
+  "url" : "https://www.pointfree.co/blog/posts/31-higher-order-snapshot-testing",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 22
+}

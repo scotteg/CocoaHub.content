@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/download/#snapshots",
+  "id" : 367,
+  "title" : "Swift 5.2 Nightly Development Snapshots are now available",
+  "date" : "2020-01-09T09:59:58Z",
+  "description" : "You can now try out the upcoming version of Swift that includes new features, performance improvements and the new diagnostic architecture.",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

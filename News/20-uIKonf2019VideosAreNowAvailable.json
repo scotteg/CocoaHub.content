@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.youtube.com/playlist?list=PLdr22uU_wISr-FYeKblv3LMe_kHFzRFBw",
+  "id" : 21,
+  "title" : "UIKonf 2019 videos are now available!",
+  "date" : "2019-06-17T09:59:00Z",
+  "description" : "Over 425 minutes of content from 17 different speakers.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

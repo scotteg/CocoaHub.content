@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Kristaps Grinbergs",
+    "url" : "https://twitter.com/fassko"
+  },
+  "tags" : [
+    "storage"
+  ],
+  "title" : "Ignorance of the URLRequest cache",
+  "url" : "https://kristaps.me/ignorance-of-cache/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 33
+}

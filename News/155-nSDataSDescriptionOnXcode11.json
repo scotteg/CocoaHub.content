@@ -1,0 +1,14 @@
+{
+  "url" : "https://twitter.com/_inside/status/1169717369519972352",
+  "id" : 162,
+  "title" : "NSData's description on Xcode 11",
+  "date" : "2019-09-06T13:39:26Z",
+  "description" : "Gui Rambo reminds that NSData's description shouldn't be used to stringify push tokens, especially with iOS 13 on its way.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

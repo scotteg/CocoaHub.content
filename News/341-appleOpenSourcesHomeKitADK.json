@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/apple/HomeKitADK",
+  "id" : 351,
+  "title" : "Apple open-sources HomeKit ADK",
+  "date" : "2019-12-19T11:41:52Z",
+  "description" : "This version can be used by any developer to prototype non-commercial smart home accessories.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Maksym Shcheglov",
+    "url" : "https://twitter.com/sgl0v"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Code Generation in Swift",
+  "url" : "https://www.onswiftwings.com/posts/code-generation/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 22
+}

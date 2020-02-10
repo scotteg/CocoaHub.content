@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/blog/tsan-support-on-linux/",
+  "id" : 121,
+  "title" : "Thread Sanitizer for Swift on Linux",
+  "date" : "2019-08-13T23:50:25Z",
+  "description" : "This bug-finding tool that diagnoses data races at run time is now available on Linux as part of Swift 5.1.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}
