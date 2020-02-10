@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/blog/crypto/",
+  "id" : 403,
+  "title" : "Apple announces Swift Crypto",
+  "date" : "2020-02-03T17:30:59Z",
+  "description" : "Swift Crypto is a new open-source library by Apple that allows you to use the CryptoKit APIs on all platforms that Swift supports.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

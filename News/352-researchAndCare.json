@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.researchandcare.org",
+  "id" : 362,
+  "title" : "Research and care",
+  "date" : "2019-12-31T11:25:59Z",
+  "description" : "Apple launches a new website entirely focused on ResearchKit and CareKit.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

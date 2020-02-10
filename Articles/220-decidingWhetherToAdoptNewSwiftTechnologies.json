@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "architecture",
+    "tipsAndTricks"
+  ],
+  "title" : "Deciding whether to adopt new Swift technologies",
+  "url" : "https://www.swiftbysundell.com/articles/deciding-whether-to-adopt-new-swift-technologies/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 22
+}

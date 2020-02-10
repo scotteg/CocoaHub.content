@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Sarun W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "architecture",
+    "ui"
+  ],
+  "title" : "Data in SwiftUI, Part 2: Views as a function of data",
+  "url" : "https://sarunw.com/posts/data-in-swiftui-2/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

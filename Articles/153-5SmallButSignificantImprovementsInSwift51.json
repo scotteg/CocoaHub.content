@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "5 small but significant improvements in Swift 5.1",
+  "url" : "https://www.swiftbysundell.com/articles/5-small-but-significant-improvements-in-swift-5-1/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 16
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Using map, flatMap and compactMap in Combine",
+  "url" : "https://www.donnywals.com/using-map-flatmap-and-compactmap-in-combine/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 35
+}

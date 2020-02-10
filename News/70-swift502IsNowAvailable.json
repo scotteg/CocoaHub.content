@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/download/#releases",
+  "id" : 76,
+  "title" : "Swift 5.0.2 is now available",
+  "date" : "2019-07-16T17:45:35Z",
+  "description" : "Keep in mind this new version of Swift is a Linux only change.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

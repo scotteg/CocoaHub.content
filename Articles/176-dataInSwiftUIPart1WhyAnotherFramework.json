@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Sarun W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Data in SwiftUI, Part 1: Why another framework?",
+  "url" : "https://sarunw.com/posts/data-in-swiftui-1/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 18
+}

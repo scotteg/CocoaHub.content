@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/accepted-se-0263-add-a-string-initializer-with-access-to-uninitialized-storage/30057",
+  "id" : 252,
+  "title" : "SE-0263: Add a String Initializer with Access to Uninitialized Storage has been accepted!",
+  "date" : "2019-10-21T22:04:55Z",
+  "description" : "This proposal suggested a new initializer for String that provided access to a String's uninitialized storage buffer.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

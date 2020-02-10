@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Reda Lemeden",
+    "url" : "https://twitter.com/kaishin"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "UIStackView",
+  "url" : "https://nshipster.com/uistackview/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 4
+}

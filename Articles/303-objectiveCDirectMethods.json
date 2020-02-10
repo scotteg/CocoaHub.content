@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Mattt",
+    "url" : "https://twitter.com/mattt"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Objective-C Direct Methods",
+  "url" : "https://nshipster.com/direct/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 28
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/accepted-se-0270-add-collection-operations-on-noncontiguous-elements/33270",
+  "id" : 400,
+  "title" : "SE-0270: Collection Operations on Noncontiguous Elements has been accepted",
+  "date" : "2020-01-31T09:49:33Z",
+  "description" : "After three long reviews, the Core Team finally accepts the proposal by Nate Cook.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

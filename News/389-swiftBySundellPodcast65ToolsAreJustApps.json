@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftbysundell.com/podcast/65/",
+  "id" : 399,
+  "title" : "Swift by Sundell Podcast 65: “Tools are just apps”",
+  "date" : "2020-01-30T18:42:43Z",
+  "description" : "Listen to John Sundell and his special guests, Gui Rambo, talk about building custom developer tools, Apple's tooling, writing “Swifty” code versus shipping great user experiences and much more!",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

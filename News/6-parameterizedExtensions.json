@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/parameterized-extensions/25563",
+  "id" : 6,
+  "title" : "Parameterized Extensions",
+  "date" : "2019-06-13T00:09:00Z",
+  "description" : "Ever wanted to give extensions generic parameters to build expressive generic signatures for new members?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

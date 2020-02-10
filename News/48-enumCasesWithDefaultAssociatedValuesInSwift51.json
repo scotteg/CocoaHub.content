@@ -1,0 +1,14 @@
+{
+  "url" : "https://twitter.com/johnsundell/status/1146408818206810113",
+  "id" : 49,
+  "title" : "Enum cases with default associated values in Swift 5.1",
+  "date" : "2019-07-03T19:08:00Z",
+  "description" : "Learn more about this new feature for enums with John Sundell.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

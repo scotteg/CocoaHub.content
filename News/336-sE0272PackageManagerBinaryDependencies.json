@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0272-review-2-package-manager-binary-dependencies/31668",
+  "id" : 346,
+  "title" : "SE-0272: Package Manager Binary Dependencies",
+  "date" : "2019-12-17T11:32:47Z",
+  "description" : "The proposal authored by Braden Scothern, Daniel Dunbar and Franz Busch returns from revision and is now up for a second review. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

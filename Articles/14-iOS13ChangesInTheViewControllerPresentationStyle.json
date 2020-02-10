@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Jeroen Zonneveld",
+    "url" : "https://twitter.com/j_zonneveld"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "iOS 13: Changes in the ViewController Presentation Style",
+  "url" : "https://zonneveld.dev/ios-13-viewcontroller-presentation-style-modalpresentationstyle/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 2
+}

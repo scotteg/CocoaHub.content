@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 127,
+  "title" : "The seventh beta for iOS 13, iPadOS 13, tvOS 13 and watchOS 6 is now available",
+  "date" : "2019-08-15T17:36:33Z",
+  "description" : "Both macOS Catalina and Xcode 11 haven't been updated since beta 5 but they should be available soon.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Tibor Bödecs",
+    "url" : "https://twitter.com/tiborbodecs"
+  },
+  "tags" : [
+    "server"
+  ],
+  "title" : "Beginner's guide to Server side Swift using Vapor 4",
+  "url" : "https://theswiftdev.com/2020/01/13/beginners-guide-to-server-side-swift-using-vapor-4/",
+  "curator" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "edition" : 32
+}

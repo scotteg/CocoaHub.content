@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "An introduction to generics in Swift using its built-in types",
+  "url" : "https://www.donnywals.com/an-introduction-to-generics-in-swift-using-its-built-in-types/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 26
+}

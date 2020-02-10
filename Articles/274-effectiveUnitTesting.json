@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Alexander Grebenyuk",
+    "url" : "https://twitter.com/a_grebenyuk"
+  },
+  "tags" : [
+    "testing"
+  ],
+  "title" : "Effective Unit Testing",
+  "url" : "https://kean.github.io/post/unit-testing",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 26
+}

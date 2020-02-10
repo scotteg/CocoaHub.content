@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 391,
+  "title" : "Apple releases new updates for all its platforms",
+  "date" : "2020-01-28T21:26:52Z",
+  "description" : "Apple releases macOS Catalina 10.15.3, iOS 13.3.1, iOS 12.4.5, iPadOS 13.3.1, watchOS 6.1.2 and tvOS 13.3.1.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

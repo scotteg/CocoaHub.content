@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "architecture",
+    "ui"
+  ],
+  "title" : "Composable styling in SwiftUI",
+  "url" : "https://mecid.github.io/2019/08/28/composable-styling-in-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 12
+}

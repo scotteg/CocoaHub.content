@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "language",
+    "tipsAndTricks"
+  ],
+  "title" : "Five ways to improve code with type aliases",
+  "url" : "https://www.donnywals.com/five-ways-to-improve-code-with-typealiasses/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 30
+}

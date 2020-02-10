@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "testing"
+  ],
+  "title" : "Unit Testing best practices on iOS",
+  "url" : "https://www.vadimbulavin.com/unit-testing-best-practices-on-ios-with-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 14
+}

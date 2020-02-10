@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Faiçal Tchirou",
+    "url" : "https://twitter.com/ftchirou"
+  },
+  "tags" : [
+    "architecture",
+    "storage"
+  ],
+  "title" : "Designing modern data access layers in Swift",
+  "url" : "https://faical.dev/articles/modern-swift-data-access-layers.html",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 28
+}

@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "tooling"
+  ],
+  "title" : "Unused images and resources clean up in Xcode",
+  "url" : "https://www.avanderlee.com/optimization/unused-images-clean-up/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 7
+}

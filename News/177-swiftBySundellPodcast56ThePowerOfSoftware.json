@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftbysundell.com/podcast/56",
+  "id" : 184,
+  "title" : "Swift by Sundell Podcast 56: “The power of software”",
+  "date" : "2019-09-13T16:01:44Z",
+  "description" : "Join John Sundell and his special guest Ish ShaBazz and hear them talking about indie app development, planning, productivity, what's new in Xcode 11 and Swift 5.1 and much more!",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://apps.apple.com/app/talks-coffee/id1466240063",
+  "id" : 101,
+  "title" : "Talks & Coffee, a new application for watching talks",
+  "date" : "2019-07-29T16:40:00Z",
+  "description" : "Built by Juanpe Catalán and Sofia Swidarowicz, Talks & Coffee centralizes multiples talks from multiple conferences in one single place.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

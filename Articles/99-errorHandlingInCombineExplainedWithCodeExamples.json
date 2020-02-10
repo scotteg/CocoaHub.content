@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v. d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Error handling in Combine explained with code examples",
+  "url" : "https://www.avanderlee.com/swift/combine-error-handling",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 10
+}

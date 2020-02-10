@@ -1,0 +1,14 @@
+{
+  "url" : "https://combine.community/",
+  "id" : 254,
+  "title" : "Looking for a place to talk about Combine?",
+  "date" : "2019-10-23T14:15:14Z",
+  "description" : "It's called Combine Community and as Shai Mishali explains, it's “a place where the open-source community can share its projects and experimentations around Apple's Combine framework“.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

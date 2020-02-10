@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0277-float16/33546",
+  "id" : 416,
+  "title" : "SE-0277: Float16",
+  "date" : "2020-02-09T14:13:43Z",
+  "description" : "Stephen Canon proposes adding Float16 to the standard library. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "debugging",
+    "ui"
+  ],
+  "title" : "Dark Mode: Adding support to your app in Swift",
+  "url" : "https://www.avanderlee.com/swift/dark-mode-support-ios/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 22
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/apple/swift/pull/25418",
+  "id" : 29,
+  "title" : "Faster object deallocation in Swift 5.1",
+  "date" : "2019-06-20T07:24:00Z",
+  "description" : "Two times faster deallocation times in most scenarios, however, this only applies to the latest OSes.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

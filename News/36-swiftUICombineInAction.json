@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/Dimillian/MovieSwiftUI",
+  "id" : 37,
+  "title" : "SwiftUI & Combine in action",
+  "date" : "2019-06-25T10:16:00Z",
+  "description" : "Learn SwiftUI, Combine & Redux with MovieSwiftUI, an open-source application built by Thomas Ricouard.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

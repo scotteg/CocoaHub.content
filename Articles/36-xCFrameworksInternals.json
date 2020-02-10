@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Igor",
+    "url" : "https://twitter.com/deszip"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "XCFrameworks Internals",
+  "url" : "https://appspector.com/blog/xcframeworks",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 4
+}

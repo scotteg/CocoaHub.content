@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Thomas Ricouard",
+    "url" : "https://twitter.com/Dimillian"
+  },
+  "tags" : [
+    "architecture",
+    "ui"
+  ],
+  "title" : "Making a Real-World Application With SwiftUI - Part 2: Async data and remote images",
+  "url" : "https://medium.com/better-programming/making-a-real-world-application-with-swiftui-ba9e9682889c",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 6
+}

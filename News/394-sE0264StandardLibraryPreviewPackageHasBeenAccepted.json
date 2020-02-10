@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0264-review-2-standard-library-preview-package/31288/16",
+  "id" : 404,
+  "title" : "SE-0264: Standard Library Preview Package has been accepted",
+  "date" : "2020-02-04T10:42:56Z",
+  "description" : "“The Core Team was satisfied with the dual model of having an umbrella package that users can use to install all available APIs available as preview package, as well as individual packages that correspond to specific evolution proposals.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Jason Zurita",
+    "url" : "https://twitter.com/jasonalexzurita"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Smaller Git Repo Size Using Git LFS",
+  "url" : "https://jasonzurita.com/smaller-repo-size-using-git-lfs/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 31
+}

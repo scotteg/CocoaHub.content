@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 174,
+  "title" : "Xcode 11 and iOS 13 GM seeds are now available",
+  "date" : "2019-09-10T20:42:43Z",
+  "description" : "New betas for tvOS 13, iPadOS 13.1, iOS 13.1 and macOS Catalina 10.5 are also available.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

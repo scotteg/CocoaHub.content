@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Sarun W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "architecture",
+    "language"
+  ],
+  "title" : "Data in SwiftUI, Part 3: Tools",
+  "url" : "https://sarunw.com/posts/data-in-swiftui-3/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

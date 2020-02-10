@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftforgood.com/",
+  "id" : 338,
+  "title" : "Swift for Good: A book for charity",
+  "date" : "2019-12-13T15:58:36Z",
+  "description" : "20 extraordinary authors come together to write an all-new Swift book with 20 unique chapters. Each one of them worked on it for free so that 100% of revenues can be donated to charity.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

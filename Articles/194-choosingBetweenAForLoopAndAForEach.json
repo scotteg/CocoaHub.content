@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Choosing between a for loop and a forEach",
+  "url" : "https://www.donnywals.com/choosing-between-a-for-loop-and-a-foreach/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

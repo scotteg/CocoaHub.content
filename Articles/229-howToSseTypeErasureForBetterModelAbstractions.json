@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Ariel Steinlauf",
+    "url" : "https://twitter.com/okcupid"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "How to sse type erasure for better model abstractions",
+  "url" : "https://tech.okcupid.com/using-type-erasure/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 22
+}

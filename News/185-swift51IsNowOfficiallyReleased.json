@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/blog/swift-5-1-released/",
+  "id" : 193,
+  "title" : "Swift 5.1 is now officially released!",
+  "date" : "2019-09-20T21:59:40Z",
+  "description" : "Ted Kremenek announces the release of Swift 5.1 and sums up what changed.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Swift Codable: Decoding/Encoding With Context",
+  "url" : "https://swiftrocks.com/swift-codable-decodingencoding-with-context.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 35
+}

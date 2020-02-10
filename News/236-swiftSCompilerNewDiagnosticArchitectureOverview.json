@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/blog/new-diagnostic-arch-overview/",
+  "id" : 244,
+  "title" : "Swift's compiler new diagnostic architecture overview",
+  "date" : "2019-10-17T19:30:51Z",
+  "description" : "Pavel Yaskevich shares a “couple of important updates on improvements to diagnostics being worked on for the upcoming Swift 5.2 release“, including massive improvements on error messages.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

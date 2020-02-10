@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/prototype-protocol-powered-generic-trimming-searching-splitting/29415",
+  "id" : 211,
+  "title" : "Collection Consumers and Searchers Prototype",
+  "date" : "2019-10-01T08:39:31Z",
+  "description" : "Michael Ilseman shares a prototype of protocol-powered generic Collection APIs for trimming, searching, splitting, replacing and others. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

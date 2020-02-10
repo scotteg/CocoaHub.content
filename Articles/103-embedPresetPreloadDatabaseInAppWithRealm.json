@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Axel Kee",
+    "url" : "https://twitter.com/soulchildpls"
+  },
+  "tags" : [
+    "storage"
+  ],
+  "title" : "Embed Preset / Preload database in app with Realm",
+  "url" : "https://fluffy.es/preload-database-in-app-using-realm/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 10
+}

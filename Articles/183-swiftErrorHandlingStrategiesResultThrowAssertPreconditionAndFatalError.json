@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Swift Error Handling Strategies: Result, Throw, Assert, Precondition and FatalError",
+  "url" : "https://www.vadimbulavin.com/swift-error-handling-with-result-throw-assert-precondition-and-fatalerror/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

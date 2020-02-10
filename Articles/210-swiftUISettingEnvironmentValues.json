@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Chris Eidhof",
+    "url" : "https://twitter.com/chriseidhof"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "SwiftUI: Setting Environment Values",
+  "url" : "https://www.objc.io/blog/2019/10/29/swiftui-environment/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 21
+}

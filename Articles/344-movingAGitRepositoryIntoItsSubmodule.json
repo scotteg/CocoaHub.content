@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Douglas Hill",
+    "url" : "https://twitter.com/qdoug"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Moving a Git Repository into its Submodule",
+  "url" : "https://pspdfkit.com/blog/2020/moving-a-git-repository-into-its-submodule/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 32
+}

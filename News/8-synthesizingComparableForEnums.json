@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/synthesizing-comparable-for-enums/25698",
+  "id" : 8,
+  "title" : "Synthesizing Comparable for enums",
+  "date" : "2019-06-13T10:07:00Z",
+  "description" : "Would you like to have an enum where cases have inherent ordering?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Shashikant Jagtap",
+    "url" : "https://twitter.com/Shashikant86"
+  },
+  "tags" : [
+    "testing"
+  ],
+  "title" : "WWDC19: Getting Started with Test Plan for XCTest",
+  "url" : "https://shashikantjagtap.net/wwdc19-getting-started-with-test-plan-for-xctest",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 1
+}

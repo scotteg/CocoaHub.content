@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Sarun W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "debugging"
+  ],
+  "title" : "Print unescaped string output in Swift",
+  "url" : "https://sarunw.com/tips/print-unescaped-string/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 32
+}

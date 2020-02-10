@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Alternatives to protocols in Swift",
+  "url" : "https://www.swiftbysundell.com/articles/alternatives-to-protocols-in-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 18
+}

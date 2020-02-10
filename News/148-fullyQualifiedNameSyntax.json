@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/pitch-fully-qualified-name-syntax/28482",
+  "id" : 155,
+  "title" : "Fully qualified name syntax",
+  "date" : "2019-09-04T08:58:17Z",
+  "description" : "Brent Royal-Gordon creates a pitch on Swift's name lookup and different ways to improve it. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Map, FlatMap and CompactMap",
+  "url" : "https://www.swiftbysundell.com/basics/map-flatmap-and-compactmap",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 6
+}

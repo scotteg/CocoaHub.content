@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Optimizing views in SwiftUI using EquatableView",
+  "url" : "https://swiftwithmajid.com/2020/01/22/optimizing-views-in-swiftui-using-equatableview/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 33
+}

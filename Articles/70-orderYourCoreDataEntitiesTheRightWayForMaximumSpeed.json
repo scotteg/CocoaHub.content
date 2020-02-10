@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Apps Dissected",
+    "url" : "https://twitter.com/AppsDissected/"
+  },
+  "tags" : [
+    "storage",
+    "tipsAndTricks"
+  ],
+  "title" : "Order your Core Data entities the right way for maximum speed",
+  "url" : "https://www.appsdissected.com/order-core-data-entities-maximum-speed/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 7
+}

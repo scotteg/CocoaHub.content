@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Dinesh Harjani",
+    "url" : "https://twitter.com/dinesharjani"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "On nRF Connect for iOS & SIMD Optimizations in Swift",
+  "url" : "https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/nrf_2d00_connect_2d00_simd_2d00_optimizations_2d00_in_2d00_swift",
+  "curator" : {
+    "name" : "Dinesh Harjani",
+    "url" : "https://twitter.com/dinesharjani"
+  },
+  "edition" : 34
+}

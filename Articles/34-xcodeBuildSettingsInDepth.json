@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Maksym Grebenets",
+    "url" : "https://twitter.com/mgrebenets"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Xcode Build Settings in Depth",
+  "url" : "https://heartbeat.fritz.ai/xcode-build-settings-in-depth-733667d01a9a",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 4
+}

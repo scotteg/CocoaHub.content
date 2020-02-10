@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Christian Tietze",
+    "url" : "https://twitter.com/ctietze"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Thread Safe Property and Resource Access with the Transaction Wrapper",
+  "url" : "https://christiantietze.de/posts/2020/01/thread-safe-resource-access-transaction/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 34
+}

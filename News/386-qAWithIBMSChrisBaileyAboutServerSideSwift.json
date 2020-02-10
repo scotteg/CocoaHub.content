@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.infoq.com/news/2020/01/ibm-stop-work-swift-server/",
+  "id" : 396,
+  "title" : "Q&A with IBM's Chris Bailey about Server-side Swift",
+  "date" : "2020-01-29T13:10:59Z",
+  "description" : "InfoQ talks with IBM's Chris Bailey about Kitura and its future, the status of Swift for Linux and other modern native languages. Chris was one of the two IBM contributors who left the Swift Server Work Group, along with Ian Partridge.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "press"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "language",
+    "tipsAndTricks"
+  ],
+  "title" : "Optionals in Swift explained: 5 things you should know",
+  "url" : "https://www.avanderlee.com/swift/optionals-in-swift-explained-5-things-you-should-know/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Using Xcode Previews with existing views without using SwiftUI",
+  "url" : "https://www.avanderlee.com/xcode/xcode-previews/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 2
+}

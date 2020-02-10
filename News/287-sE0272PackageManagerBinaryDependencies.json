@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/30753",
+  "id" : 295,
+  "title" : "SE-0272: Package Manager Binary Dependencies",
+  "date" : "2019-11-13T20:10:27Z",
+  "description" : "Braden Scothern, Daniel Dunbar and Franz Busch propose allowing Swift Package Manager to accept binary packages. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

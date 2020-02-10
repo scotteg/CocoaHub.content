@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "ui"
+  ],
+  "title" : "View composition in SwiftUI",
+  "url" : "https://mecid.github.io/2019/10/30/view-composition-in-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 21
+}

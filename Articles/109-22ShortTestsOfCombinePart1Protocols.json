@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Matt Gallagher",
+    "url" : "https://twitter.com/cocoawithlove"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "22 short tests of Combine – Part 1: Protocols",
+  "url" : "https://www.cocoawithlove.com/blog/twenty-two-short-tests-of-combine-part-1.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 11
+}

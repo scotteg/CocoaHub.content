@@ -1,0 +1,14 @@
+{
+  "url" : "https://nooverviewavailable.com",
+  "id" : 246,
+  "title" : "No overview available",
+  "date" : "2019-10-18T23:05:10Z",
+  "description" : "How often do you see this message in Apple's documentation? To answer this, Mattt built a website that gathers coverage on symbols documented via web scrapping.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

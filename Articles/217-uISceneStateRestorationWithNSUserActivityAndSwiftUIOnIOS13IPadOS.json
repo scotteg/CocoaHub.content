@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "UIScene State Restoration with NSUserActivity and SwiftUI on iOS 13 (iPadOS)",
+  "url" : "https://www.vadimbulavin.com/ios13-ipados-uiscene-state-restoration-with-nsuseractivity-and-swiftui/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 22
+}

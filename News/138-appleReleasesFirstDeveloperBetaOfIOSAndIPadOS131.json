@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 145,
+  "title" : "Apple releases first developer beta of iOS and iPadOS 13.1",
+  "date" : "2019-08-27T20:01:35Z",
+  "description" : "tvOS 13 beta 8, watchOS 6 beta 9 and Xcode 11 beta 7 are also available now.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

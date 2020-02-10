@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Povilas Staskus",
+    "url" : "https://twitter.com/PovilasStaskus"
+  },
+  "tags" : [
+    "web"
+  ],
+  "title" : "Migrating from Jekyll to Publish: A site generator for Swift developers",
+  "url" : "https://www.staskus.io/posts/2020-01-26-publish/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 34
+}

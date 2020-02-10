@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Mark Goldin",
+    "url" : "https://twitter.com/exyteHQ"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "SwiftUI Tutorial for slider Control",
+  "url" : "https://exyte.com/blog/swiftui-tutorial-slider-control",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 18
+}

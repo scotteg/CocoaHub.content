@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Julian Schiavo",
+    "url" : "https://twitter.com/justJS_dev"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "An extensive guide to formatting dates",
+  "url" : "https://schiavo.me/2019/formatting-dates/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 7
+}

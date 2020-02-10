@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "architecture",
+    "language"
+  ],
+  "title" : "Using Type Erasure to Build a Dependency Injecting Routing Framework in Swift",
+  "url" : "https://swiftrocks.com/using-type-erasure-to-build-a-dependency-injector-in-swift.html",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 30
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Matthew Flint",
+    "url" : "https://twitter.com/mkflint"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Exploring Different Behaviours in Enums",
+  "url" : "https://daringsnowball.net/different-swift-enum-behaviours/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 8
+}

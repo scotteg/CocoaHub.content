@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "storage"
+  ],
+  "title" : "The Advanced Guide to UserDefaults in Swift",
+  "url" : "https://www.vadimbulavin.com/advanced-guide-to-userdefaults-in-swift/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 27
+}

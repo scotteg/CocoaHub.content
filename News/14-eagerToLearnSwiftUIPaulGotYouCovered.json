@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.hackingwithswift.com/articles/196/learn-swiftui-with-free-tutorials",
+  "id" : 14,
+  "title" : "Eager to learn SwiftUI? Paul got you covered!",
+  "date" : "2019-06-14T14:02:00Z",
+  "description" : "Lots of SwiftUI tutorials and videos to help you get started with it.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

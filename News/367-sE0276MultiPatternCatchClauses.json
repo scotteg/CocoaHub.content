@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0276-multi-pattern-catch-clauses/32620",
+  "id" : 377,
+  "title" : "SE-0276: Multi-Pattern Catch Clauses",
+  "date" : "2020-01-15T19:38:24Z",
+  "description" : "Owen Voorhees proposes allowing catch clauses to specify a comma-separated list of patterns. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

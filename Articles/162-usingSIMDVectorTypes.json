@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "language",
+    "other"
+  ],
+  "title" : "Using SIMD Vector Types",
+  "url" : "https://swiftrocks.com/using-simd-vector-types-in-swift.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 17
+}

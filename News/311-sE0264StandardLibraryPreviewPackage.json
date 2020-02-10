@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0264-review-2-standard-library-preview-package/31288",
+  "id" : 320,
+  "title" : "SE-0264: Standard Library Preview Package",
+  "date" : "2019-12-02T20:56:18Z",
+  "description" : "After returning for revision because of John McCall's idea of having separately-versioned packages for each proposal, SE-0264 is now up for a second review. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

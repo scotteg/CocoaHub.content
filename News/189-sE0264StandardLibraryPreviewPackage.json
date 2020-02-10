@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0264-standard-library-preview-package/29068",
+  "id" : 197,
+  "title" : "SE-0264: Standard Library Preview Package",
+  "date" : "2019-09-23T17:54:47Z",
+  "description" : "Ben Cohen, Max Moiseev and Nate Cook propose the addition of a new package called SwiftPreview. It aims to enable sooner real-world feedback, early adoption of new features and much more! What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Javier",
+    "url" : "https://twitter.com/SwiftUILab"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "id(_): Identifying SwiftUI Views",
+  "url" : "https://swiftui-lab.com/swiftui-id/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 26
+}

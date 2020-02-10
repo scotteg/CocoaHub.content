@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0274-concise-magic-file-names/32373",
+  "id" : 368,
+  "title" : "SE-0274: Concise Magic File Names",
+  "date" : "2020-01-09T11:52:17Z",
+  "description" : "Brent Royal-Gordon and Dave DeLong propose introducing a new #filePath expression. It would work similarly to #file, but instead it would provide a human-readable string containing the filename and module name. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

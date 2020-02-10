@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Peter Steinberger",
+    "url" : "https://twitter.com/steipete"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Swizzling in Swift",
+  "url" : "https://pspdfkit.com/blog/2019/swizzling-in-swift",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 3
+}

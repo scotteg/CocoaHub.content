@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 305,
+  "title" : "iOS and iPadOS 13.2.3 are now available",
+  "date" : "2019-11-18T22:55:21Z",
+  "description" : "Two minor updates focused on performance improvements and bug fixes for issues that weren't address previously.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

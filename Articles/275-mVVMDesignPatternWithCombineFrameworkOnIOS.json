@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Maksym Shcheglov",
+    "url" : "https://twitter.com/sgl0v"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "MVVM Design Pattern with Combine framework on iOS",
+  "url" : "https://www.onswiftwings.com/posts/mvvm-with-combine/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 26
+}

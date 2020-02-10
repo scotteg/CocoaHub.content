@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Paulo Andrade",
+    "url" : "https://twitter.com/pfandrade_"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Unsafe Swift",
+  "url" : "https://pfandrade.me/blog/unsafe-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 31
+}

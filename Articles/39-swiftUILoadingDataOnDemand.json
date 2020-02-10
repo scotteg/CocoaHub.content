@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Chris Eidhof",
+    "url" : "https://twitter.com/chriseidhof"
+  },
+  "tags" : [
+    "architecture",
+    "ui"
+  ],
+  "title" : "SwiftUI: Loading Data on Demand",
+  "url" : "https://www.objc.io/blog/2019/07/02/lazy-loading/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 4
+}

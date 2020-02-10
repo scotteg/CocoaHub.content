@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Javier",
+    "url" : "https://twitter.com/SwiftUILab"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Frame Behaviors with SwiftUI",
+  "url" : "https://swiftui-lab.com/frame-behaviors/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 17
+}

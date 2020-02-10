@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Pavle Pesic",
+    "url" : "https://twitter.com/pakisha1989"
+  },
+  "tags" : [
+    "tipsAndTricks"
+  ],
+  "title" : "Beautiful Code Principles",
+  "url" : "https://www.vadimbulavin.com/recursion-in-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 5
+}

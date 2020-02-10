@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftbysundell.com/podcast/62/",
+  "id" : 327,
+  "title" : "Swift by Sundell Podcast 62: “Backend-driven UIs”",
+  "date" : "2019-12-06T00:44:22Z",
+  "description" : "Listen to John Sundell and his special guest, Kate Castellano, talk about how backend-driven UIs, vie models, handling loading states and much more",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

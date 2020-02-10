@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Maksym Shcheglov",
+    "url" : "https://twitter.com/sgl0v"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Extending Combine with a custom ShareReplay operator",
+  "url" : "https://www.onswiftwings.com/posts/share-replay-operator/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 34
+}

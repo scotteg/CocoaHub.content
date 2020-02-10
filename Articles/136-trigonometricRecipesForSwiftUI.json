@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Javier",
+    "url" : "https://twitter.com/SwiftUILab"
+  },
+  "tags" : [
+    "other",
+    "ui"
+  ],
+  "title" : "Trigonometric Recipes for SwiftUI",
+  "url" : "https://swiftui-lab.com/trigonometric-recipes-for-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 13
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/?id=10312019a",
+  "id" : 271,
+  "title" : "Xcode 11.2 is now available",
+  "date" : "2019-10-31T20:39:33Z",
+  "description" : "The latest version of Xcode includes SDKs for iOS 13.2, iPadOS 13.2, tvOS 13.2 and watchOS 6.1.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}
