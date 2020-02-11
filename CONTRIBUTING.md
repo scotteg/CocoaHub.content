@@ -52,18 +52,20 @@ There are 6 possible tags for news, being:
 
 ```json
 {
-    "title": "Unit Testing Asynchronous Code",
-    "edition": 9,
-    "tags": ["testing"],
-    "url": "https://www.vadimbulavin.com/unit-testing-async-code-in-swift/",
-    "author": {
-        "name": "Vadim Bulavin",
-        "url": "https://twitter.com/V8tr"
-    },
-    "curator": {
-        "name": "Pedro Carrasco",
-        "url": "https://twitter.com/pedrommcarrasco"
-    }
+  "author" : {
+    "name" : "Rui Peres",
+    "url" : "https://twitter.com/peres"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Understanding the SwiftUI Sample",
+  "url" : "https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 1
 }
 ```
 
@@ -90,15 +92,18 @@ There are 16 possible tags for articles, being:
 
 ```json
 {
-    "name": "Swift Aveiro",
+    "name": "SwiftAveiro",
     "url": "https://www.swiftaveiro.xyz",
     "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fswiftaveiro.jpg?alt=media&token=77ee75b3-a4fe-433c-baab-ba6e4d356b46",
-    "startDate": "2019-06-20T12:00:00+0000",
-    "endDate": "2019-06-21T12:00:00+0000",
+    "startDate": "2020-06-25T12:00:00+0000",
+    "endDate": "2020-06-26T12:00:00+0000",
     "country": "Portugal",
     "city": "Aveiro",
-    "tags": [
-      "tickets"
+    "tags": []
+    "isActive": true
+    "coordinates": [
+        "latitute": 40.638370,
+        "longitude": -8.645109
     ]
 }
 ```
