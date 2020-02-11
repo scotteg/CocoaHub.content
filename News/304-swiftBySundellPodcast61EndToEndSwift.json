@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftbysundell.com/podcast/61/",
+  "id" : 313,
+  "title" : "Swift by Sundell Podcast 61: “End-to-end Swift”",
+  "date" : "2019-11-22T19:48:30Z",
+  "description" : "Listen to John Sundell and his special guest, Tim Condon, talk about networking code on the client-side, Swift on the Server and how to combine both in order to write Swift end-to-end.",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

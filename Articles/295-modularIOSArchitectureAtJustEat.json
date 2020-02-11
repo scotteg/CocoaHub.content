@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Just Eat",
+    "url" : "https://twitter.com/justeat_tech"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Modular iOS Architecture at Just Eat",
+  "url" : "https://tech.just-eat.com/2019/12/18/modular-ios-architecture-just-eat/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 28
+}

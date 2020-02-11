@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/properties-forwarding-aliasing/14362/15",
+  "id" : 33,
+  "title" : "Properties forwarding",
+  "date" : "2019-06-22T17:17:48Z",
+  "description" : "What do you think about forwarding a property's getter/setter to a property of another object?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

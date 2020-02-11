@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/swift-5-1-2-released/30620",
+  "id" : 286,
+  "title" : "Swift 5.1.2 has been released",
+  "date" : "2019-11-09T13:14:32Z",
+  "description" : "The latest version of Swift contains an improved type-checking algorithm that hugely benefits function builders.",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

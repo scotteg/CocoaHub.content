@@ -1,0 +1,14 @@
+{
+  "url" : "https://9to5mac.com/2019/06/12/stacktrace-podcast-040-from-swift-to-spelunking/",
+  "id" : 39,
+  "title" : "Stacktrace Podcast 042: “Hiding in plain sight”",
+  "date" : "2019-06-26T20:38:02Z",
+  "description" : "Listen John Sundell & Gui Rambo talk about the Swift Package Manager, how Apple hid SwiftUI & whether you’ll see a modernized version of CoreData soon.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

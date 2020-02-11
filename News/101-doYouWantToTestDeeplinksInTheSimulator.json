@@ -1,0 +1,14 @@
+{
+  "url" : "https://twitter.com/alex_v_bush/status/1156917502942822401",
+  "id" : 108,
+  "title" : "Do you want to test deeplinks in the simulator?",
+  "date" : "2019-08-01T15:00:00Z",
+  "description" : "Alex Bush shares how you can easily do it via terminal with xcrun.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "exyte",
+    "url" : "https://twitter.com/exytehq"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "SwiftUI Tutorial: Replicating the Activity Application",
+  "url" : "https://exyte.com/blog/swiftui-tutorial-replicating-activity-application",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 29
+}

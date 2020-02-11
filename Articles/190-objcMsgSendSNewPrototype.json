@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Mike Ash",
+    "url" : "https://twitter.com/mikeash"
+  },
+  "tags" : [
+    "language",
+    "other"
+  ],
+  "title" : "objc_msgSend's New Prototype",
+  "url" : "https://www.mikeash.com/pyblog/objc_msgsends-new-prototype.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

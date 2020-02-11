@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Axel Kee",
+    "url" : "https://twitter.com/soulchildpls"
+  },
+  "tags" : [
+    "storage"
+  ],
+  "title" : "How to store image into CoreData",
+  "url" : "https://fluffy.es/store-image-coredata/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 1
+}

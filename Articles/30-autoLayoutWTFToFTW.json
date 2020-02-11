@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Zev Eisenberg",
+    "url" : "https://twitter.com/ZevEisenberg"
+  },
+  "tags" : [
+    "tooling",
+    "workflow"
+  ],
+  "title" : "Auto Layout: WTF to FTW",
+  "url" : "https://www.rightpoint.com/rplabs/2019/06/wtf-auto-layout-for-ios-in-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 4
+}

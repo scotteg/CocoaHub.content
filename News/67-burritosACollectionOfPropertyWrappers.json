@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/guillermomuntaner/Burritos",
+  "id" : 73,
+  "title" : "Burritos, a collection of Property Wrappers",
+  "date" : "2019-07-13T22:15:00Z",
+  "description" : "There's a new GitHub repository merely for Swift Property Wrappers. It's called Burritos and it was made by Guillermo Muntaner.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

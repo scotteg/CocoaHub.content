@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/move-swiftuis-identifiable-protocol-and-related-types-into-the-standard-library/25713",
+  "id" : 7,
+  "title" : "SwiftUI’s Identifiable protocol and related types into the standard library",
+  "date" : "2019-06-13T09:56:00Z",
+  "description" : "Do you think it should be part of the standard library?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

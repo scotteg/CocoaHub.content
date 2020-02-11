@@ -1,0 +1,14 @@
+{
+  "url" : "https://flydepartures.com/",
+  "id" : 241,
+  "title" : "Looking for a TestFlight public link tracker?",
+  "date" : "2019-10-17T12:33:29Z",
+  "description" : "Departures is a new website developed by BitSuites that tracks TestFlight links and its status from multiple applications.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0258-property-wrappers-third-review/26399",
+  "id" : 42,
+  "title" : "SE-0258: Property Wrappers",
+  "date" : "2019-06-28T10:31:00Z",
+  "description" : "Property Wrappers are being reviewed for the third time with few but substantial differences when compared to the previous one. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

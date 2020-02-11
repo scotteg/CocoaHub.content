@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Zach Simone",
+    "url" : "https://twitter.com/zachsimone"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Customising the Menu Bar of a Catalyst App Using UIMenuBuilder",
+  "url" : "https://www.zachsim.one/blog/2019/8/4/customising-the-menu-bar-of-a-catalyst-app-using-uimenubuilder",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 9
+}

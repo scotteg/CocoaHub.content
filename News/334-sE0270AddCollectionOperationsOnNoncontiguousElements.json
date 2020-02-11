@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0270-review-2-add-collection-operations-on-noncontiguous-elements/31653",
+  "id" : 344,
+  "title" : "SE-0270: Add Collection Operations on Noncontiguous Elements",
+  "date" : "2019-12-17T11:22:38Z",
+  "description" : "After returning for revision in order to investigate splitting the proposal into smaller pieces, SE-0270 is now up for a second review. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

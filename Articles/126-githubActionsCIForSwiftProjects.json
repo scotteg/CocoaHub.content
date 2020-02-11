@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Artem Novichkov",
+    "url" : "https://twitter.com/iosartem"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Github Actions CI for Swift Projects",
+  "url" : "https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 12
+}

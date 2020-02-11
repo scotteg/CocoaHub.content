@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/accepted-se-0267-where-clauses-on-contextually-generic-declarations/30474/4",
+  "id" : 275,
+  "title" : "SE-0267: where clauses on contextually generic declarations has been accepted!",
+  "date" : "2019-11-04T22:01:13Z",
+  "description" : "“The proposal addresses the issue of conditional protocol requirements by disallowing constraints involving Self from being applied to protocol requirements“.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

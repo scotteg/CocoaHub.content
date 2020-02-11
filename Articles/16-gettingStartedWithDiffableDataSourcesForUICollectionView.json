@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Kaira Diagne",
+    "url" : "https://twitter.com/kairadiagne"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Getting started with diffable data sources for UICollectionView",
+  "url" : "https://www.kairadiagne.com/2019/06/10/getting-started-with-diffable-data-sources-for-uicollectionview.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 3
+}

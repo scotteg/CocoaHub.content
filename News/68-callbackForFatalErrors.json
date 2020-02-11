@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/pitch-stdlib-cleanup-callback-for-fatal-swift-errors",
+  "id" : 74,
+  "title" : "Callback for Fatal Errors",
+  "date" : "2019-07-15T16:32:00Z",
+  "description" : "There's a new pitch that aims to provide a Swift cleanup callback for fatal errors. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

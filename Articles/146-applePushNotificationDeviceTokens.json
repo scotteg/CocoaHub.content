@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Mattt",
+    "url" : "https://twitter.com/mattt"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Apple Push Notification Device Tokens",
+  "url" : "https://nshipster.com/apns-device-tokens/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 15
+}

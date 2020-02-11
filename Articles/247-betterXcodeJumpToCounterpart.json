@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Daniel Martin",
+    "url" : "https://twitter.com/dmartincy"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "workflow"
+  ],
+  "title" : "Better Xcode jump to counterpart",
+  "url" : "https://gist.github.com/danielmartin/8411c303e5c8702c19c65950b49635b8",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 24
+}

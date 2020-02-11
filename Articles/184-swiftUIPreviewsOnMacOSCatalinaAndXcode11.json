@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Mattt",
+    "url" : "https://twitter.com/mattt"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "ui"
+  ],
+  "title" : "Swift​UI Previews on macOS Catalina and Xcode 11",
+  "url" : "https://nshipster.com/swiftui-previews/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

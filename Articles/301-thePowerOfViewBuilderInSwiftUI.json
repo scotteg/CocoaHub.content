@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "The power of @ViewBuilder in SwiftUI",
+  "url" : "https://swiftwithmajid.com/2019/12/18/the-power-of-viewbuilder-in-swiftui/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 28
+}

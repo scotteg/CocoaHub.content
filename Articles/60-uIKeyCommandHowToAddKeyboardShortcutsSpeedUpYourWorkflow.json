@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "workflow"
+  ],
+  "title" : "UIKeyCommand how-to add keyboard shortcuts & speed up your workflow",
+  "url" : "https://www.avanderlee.com/swift/uikeycommand-keyboard-shortcuts/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 6
+}

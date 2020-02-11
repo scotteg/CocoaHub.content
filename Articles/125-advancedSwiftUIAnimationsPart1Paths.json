@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Javier",
+    "url" : "https://twitter.com/SwiftUILab"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Advanced SwiftUI Animations – Part 1: Paths",
+  "url" : "https://swiftui-lab.com/swiftui-animations-part1/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 12
+}

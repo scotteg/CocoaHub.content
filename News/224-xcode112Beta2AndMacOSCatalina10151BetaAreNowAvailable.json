@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 232,
+  "title" : "Xcode 11.2 beta 2 and macOS Catalina 10.15.1 beta are now available",
+  "date" : "2019-10-11T21:14:13Z",
+  "description" : "Four days after being officially released, Apple releases the first beta for macOS Catalina 10.5.1.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

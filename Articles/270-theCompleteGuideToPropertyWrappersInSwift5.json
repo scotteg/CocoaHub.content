@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "The Complete Guide to Property Wrappers in Swift 5",
+  "url" : "https://www.vadimbulavin.com/swift-5-property-wrappers/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 26
+}

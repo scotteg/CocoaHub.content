@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.hackingwithswift.com/articles/202/swiftoberfest-2019",
+  "id" : 209,
+  "title" : "Swiftoberfest 2019",
+  "date" : "2019-10-01T08:27:30Z",
+  "description" : "A new event by Paul Hudson where he'll post a new article every day and promote content from other people until the end of October.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

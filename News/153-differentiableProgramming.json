@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/differentiable-programming-mega-proposal/28547/",
+  "id" : 160,
+  "title" : "Differentiable Programming",
+  "date" : "2019-09-05T15:33:02Z",
+  "description" : "There's a new pitch from Richard Wei to discuss the addition of first-class differentiable programming to Swift. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

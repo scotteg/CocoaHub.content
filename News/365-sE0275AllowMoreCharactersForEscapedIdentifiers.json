@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/se-0275-allow-more-characters-like-whitespaces-and-punctuations-for-escaped-identifiers/32538",
+  "id" : 375,
+  "title" : "SE-0275: Allow more characters for escaped identifiers",
+  "date" : "2020-01-14T13:04:43Z",
+  "description" : "Alfredo Bovi proposes extending “the character allowance for escaped identifiers with more Unicode scalars, like whitespace and punctuation“ with the goal of enabling developers to use natural language for describing methods and others. What do you think?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

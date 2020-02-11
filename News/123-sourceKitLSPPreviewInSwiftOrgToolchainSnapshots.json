@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/sourcekit-lsp-preview-in-swift-org-toolchain-snapshots/28026",
+  "id" : 130,
+  "title" : "SourceKit-LSP Preview in Swift.org Toolchain Snapshots",
+  "date" : "2019-08-19T17:28:13Z",
+  "description" : "“While SourceKit-LSP is still under heavy development, we wanted to provide a more convenient way to try out SourceKit-LSP for anyone using the Swift.org toolchains with an LSP-compatible editor.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

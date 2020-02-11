@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "workflow"
+  ],
+  "title" : "Mastering the assistant editor in Xcode 11",
+  "url" : "https://www.avanderlee.com/xcode/xcode-assistant-editor/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 17
+}

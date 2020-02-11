@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Configurable types in Swift",
+  "url" : "https://www.swiftbysundell.com/posts/configurable-types-in-swift",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 3
+}

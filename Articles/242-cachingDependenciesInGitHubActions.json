@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Sarun W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Caching dependencies in GitHub Actions",
+  "url" : "https://sarunw.com/tips/caching-dependencies-in-github-actions/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 23
+}

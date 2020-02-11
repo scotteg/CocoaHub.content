@@ -1,13 +1,14 @@
 {
-    "title": "iOS Dev Weekly 408",
-    "description": "After a week filled of #picswithdave, nothing like reading Dave selections for this week!",
-    "date": "2019-06-14T19:15:00+0000",
-    "url": "https://iosdevweekly.com/issues/408#start",
-    "curator": {
-        "name": "Pedro Carrasco",
-        "url": "https://twitter.com/pedrommcarrasco"
-    },
-    "tags": [
-        "newsletter"
-    ]
+  "url" : "https://iosdevweekly.com/issues/408#start",
+  "id" : 17,
+  "title" : "iOS Dev Weekly 408",
+  "date" : "2019-06-14T19:15:00Z",
+  "description" : "After a week filled of #picswithdave, nothing like reading Dave selections for this week!",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
 }

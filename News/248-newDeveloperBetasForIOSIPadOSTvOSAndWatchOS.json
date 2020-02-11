@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 256,
+  "title" : "New developer betas for iOS, iPadOS, tvOS and watchOS",
+  "date" : "2019-10-23T22:53:37Z",
+  "description" : "Apple releases the forth beta for iOS 13.2, iPadOS 13.2 and tvOS 13.2 along with the fifth beta for watchOS 6.1.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

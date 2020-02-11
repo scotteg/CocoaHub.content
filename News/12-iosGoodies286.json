@@ -1,13 +1,14 @@
 {
-    "title": "iOS Goodies 286",
-    "description": "A whole bunch of articles about the new toys we got from WWDC 2019.",
-    "date": "2019-06-14T09:46:00+0000",
-    "url": "https://ios-goodies.com/post/185565590631/week-286",
-    "curator": {
-        "name": "Pedro Carrasco",
-        "url": "https://twitter.com/pedrommcarrasco"
-    },
-    "tags": [
-        "newsletter"
-    ]
+  "url" : "https://ios-goodies.com/post/185565590631/week-286",
+  "id" : 12,
+  "title" : "iOS Goodies 286",
+  "date" : "2019-06-14T09:46:00Z",
+  "description" : "A whole bunch of articles about the new toys we got from WWDC 2019.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
 }

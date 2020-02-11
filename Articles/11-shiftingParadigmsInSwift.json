@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "architecture",
+    "tipsAndTricks"
+  ],
+  "title" : "Shifting paradigms in Swift",
+  "url" : "https://www.swiftbysundell.com/posts/shifting-paradigms-in-swift",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 2
+}

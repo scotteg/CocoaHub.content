@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Opaque return types and the 'some' keyword in Swift",
+  "url" : "https://www.vadimbulavin.com/opaque-return-types-and-the-some-keyword-in-swift/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 28
+}

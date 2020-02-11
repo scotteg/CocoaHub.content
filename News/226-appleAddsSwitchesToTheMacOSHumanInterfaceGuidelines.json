@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/design/human-interface-guidelines/macos/buttons/switches/",
+  "id" : 234,
+  "title" : "Apple adds switches to the macOS Human Interface Guidelines",
+  "date" : "2019-10-15T20:28:35Z",
+  "description" : "“In general, don't replace a checkbox with a switch. If you're already using a checkbox in your UI, it's probably best to keep using it“.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

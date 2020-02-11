@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "John Sundell",
+    "url" : "https://twitter.com/johnsundell"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Implementing throwing protocol functions as non-throwing",
+  "url" : "https://www.swiftbysundell.com/tips/implementing-throwing-protocol-functions-as-non-throwing/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 22
+}

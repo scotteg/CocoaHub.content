@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Arvind Ravi",
+    "url" : "https://arvindravi.com"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Hello, Combine: Part 1",
+  "url" : "https://arvindravi.com/hello-combine-part-i/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 2
+}

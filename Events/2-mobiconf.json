@@ -2,9 +2,14 @@
     "name": "Mobiconf",
     "url": "https://2019.mobiconf.org",
     "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fmobiconf.png?alt=media&token=c7992a5a-09e2-4854-b0f0-c5fed380a6f3",
+    "tags": [],
+    "isActive": false,
     "startDate": "2019-10-03T12:00:00+0000",
     "endDate": "2019-10-04T12:00:00+0000",
     "country": "Poland",
     "city": "Kraków",
-    "tags": []
+    "coordinates": {
+        "latitute": 50.087840,
+        "longitude": 19.978740
+    }
 }

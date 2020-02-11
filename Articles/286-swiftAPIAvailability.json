@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Mattt",
+    "url" : "https://twitter.com/mattt"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Swift API Availability",
+  "url" : "https://nshipster.com/available/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 27
+}

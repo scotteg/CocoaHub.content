@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "testing"
+  ],
+  "title" : "Faking network responses in tests",
+  "url" : "https://www.donnywals.com/faking-network-responses-in-tests/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 20
+}

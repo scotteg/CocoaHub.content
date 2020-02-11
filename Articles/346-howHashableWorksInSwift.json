@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "How Hashable works in Swift",
+  "url" : "https://swiftrocks.com/how-hashable-works-in-swift.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 32
+}

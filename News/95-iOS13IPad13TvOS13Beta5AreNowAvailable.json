@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 102,
+  "title" : "iOS 13, iPad 13 & tvOS 13 Beta 5 are now available",
+  "date" : "2019-07-29T23:50:00Z",
+  "description" : "This wave doesn't include macOS Catalina and watchOS 6 yet, but both should be released soon.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

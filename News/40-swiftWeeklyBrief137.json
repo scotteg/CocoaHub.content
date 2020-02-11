@@ -1,0 +1,14 @@
+{
+  "url" : "https://swiftweekly.github.io/issue-137/",
+  "id" : 41,
+  "title" : "Swift Weekly Brief 137",
+  "date" : "2019-06-28T10:19:00Z",
+  "description" : "Read Bas Broek's concise brief on Swift's evolution in the past 2 weeks.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
+}

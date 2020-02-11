@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/pitch-modify-accessors/31872",
+  "id" : 353,
+  "title" : "Modify Accessors",
+  "date" : "2019-12-19T19:16:29Z",
+  "description" : "Ben Cohen pitches the introduction of a new keyword, modify, for implementing mutable computed properties and subscript. What do you think?",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

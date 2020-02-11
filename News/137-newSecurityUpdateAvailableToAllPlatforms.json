@@ -1,0 +1,14 @@
+{
+  "url" : "https://support.apple.com/en-us/HT201222",
+  "id" : 144,
+  "title" : "New security update available to all platforms",
+  "date" : "2019-08-26T19:55:05Z",
+  "description" : "Apple releases an update to fix a vulnerability, CVE-2019-8605, aciddently introduced in 12.4.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

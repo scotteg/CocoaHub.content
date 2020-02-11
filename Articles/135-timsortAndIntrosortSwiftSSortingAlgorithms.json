@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Bruno Rocha",
+    "url" : "https://twitter.com/rockthebruno"
+  },
+  "tags" : [
+    "language",
+    "other"
+  ],
+  "title" : "Timsort and Introsort: Swift's Sorting Algorithms",
+  "url" : "https://swiftrocks.com/introsort-timsort-swifts-sorting-algorithm.html",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 13
+}

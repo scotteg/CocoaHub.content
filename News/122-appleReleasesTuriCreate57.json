@@ -1,0 +1,14 @@
+{
+  "url" : "https://github.com/apple/turicreate/releases/tag/5.7",
+  "id" : 129,
+  "title" : "Apple releases Turi Create 5.7",
+  "date" : "2019-08-18T13:26:42Z",
+  "description" : "This version includes Python 3.7 support on macOS, increased performance and multiple bug fixes.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

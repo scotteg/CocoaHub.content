@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "JSON Parsing in Swift explained with code examples",
+  "url" : "https://www.avanderlee.com/swift/json-parsing-decoding/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 33
+}

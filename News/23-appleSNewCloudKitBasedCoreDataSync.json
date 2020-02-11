@@ -1,0 +1,14 @@
+{
+  "url" : "https://medium.com/@drewmccormack/apples-new-cloudkit-based-core-data-sync-4c1f334044bc",
+  "id" : 24,
+  "title" : "Apple’s new CloudKit-based Core Data sync",
+  "date" : "2019-06-18T00:54:00Z",
+  "description" : "Drew McCormack shares his insights on Apple's solution, presented at WWDC 2019, to get Core Data to synchronize reliably.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

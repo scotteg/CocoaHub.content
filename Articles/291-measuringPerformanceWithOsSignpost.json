@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "debugging"
+  ],
+  "title" : "Measuring performance with os_signpost",
+  "url" : "https://www.donnywals.com/measuring-performance-with-os_signpost/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 27
+}

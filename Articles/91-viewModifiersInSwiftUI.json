@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "ViewModifiers in SwiftUI",
+  "url" : "https://mecid.github.io/2019/08/07/viewmodifiers-in-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 9
+}

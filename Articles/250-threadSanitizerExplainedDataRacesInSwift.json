@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "tipsAndTricks",
+    "tooling"
+  ],
+  "title" : "Thread Sanitizer explained: Data Races in Swift",
+  "url" : "https://www.avanderlee.com/swift/thread-sanitizer-data-races/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 24
+}

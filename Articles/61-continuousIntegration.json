@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Soroush Khanlou",
+    "url" : "https://twitter.com/khanlou"
+  },
+  "tags" : [
+    "workflow"
+  ],
+  "title" : "Continuous Integration",
+  "url" : "http://khanlou.com/2019/07/continuous-integration/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 6
+}

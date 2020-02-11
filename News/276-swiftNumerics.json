@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/blog/numerics/",
+  "id" : 284,
+  "title" : "Swift Numerics",
+  "date" : "2019-11-08T14:06:53Z",
+  "description" : "”Swift Numerics will provide the building blocks of numerical computing in Swift, as a set of fine-grained modules bundled together into a single Swift package.”",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Damjan Dabo",
+    "url" : "https://twitter.com/dabodamjan"
+  },
+  "tags" : [
+    "debugging",
+    "tooling"
+  ],
+  "title" : "Snatch bugs with this lightweight bug-reporting iOS library",
+  "url" : "https://infinum.com/the-capsized-eight/snatch-bugs-with-bug-reporting-ios-library",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 35
+}

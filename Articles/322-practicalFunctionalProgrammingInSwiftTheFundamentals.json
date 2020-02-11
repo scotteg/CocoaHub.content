@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Practical Functional Programming in Swift: The Fundamentals",
+  "url" : "https://www.vadimbulavin.com/swift-functional-programming-fundamentals/",
+  "curator" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "edition" : 31
+}

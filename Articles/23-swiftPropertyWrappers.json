@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Mattt",
+    "url" : "https://twitter.com/mattt"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Swift Property Wrappers",
+  "url" : "https://nshipster.com/propertywrapper/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 3
+}

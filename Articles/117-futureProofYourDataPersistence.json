@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Sasmito Adibowo",
+    "url" : "https://twitter.com/cutecoder"
+  },
+  "tags" : [
+    "architecture",
+    "storage"
+  ],
+  "title" : "Future-Proof Your Data Persistence",
+  "url" : "https://cutecoder.org/programming/future-proof-data-persistence/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 11
+}

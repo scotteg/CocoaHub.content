@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/?id=11052019e",
+  "id" : 279,
+  "title" : "Xcode 11.2.1 GM seed is now available",
+  "date" : "2019-11-05T22:17:13Z",
+  "description" : "“This update fixes a critical issue that could cause apps using UITextView to crash when run on previous versions of iOS, iPadOS, or tvOS.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Sarun W.",
+    "url" : "https://twitter.com/sarunw"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Better dependency injection for Storyboards in iOS13",
+  "url" : "https://sarunw.com/posts/better-dependency-injection-for-storyboards-in-ios13",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 6
+}

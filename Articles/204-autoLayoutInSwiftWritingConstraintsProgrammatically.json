@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Antoine v.d. Lee",
+    "url" : "https://twitter.com/twannl"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Auto Layout in Swift: Writing constraints programmatically",
+  "url" : "https://www.avanderlee.com/swift/auto-layout-programmatically/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 20
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://swift.org/blog/5-2-release-process/",
+  "id" : 202,
+  "title" : "Swift 5.2 Release Process",
+  "date" : "2019-09-24T23:20:01Z",
+  "description" : "Learn more about the goals, release process and estimated schedule for Swift 5.2.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

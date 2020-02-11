@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Daniel Martín",
+    "url" : "https://twitter.com/dmartincy"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Introduction to C++ for Swift Developers",
+  "url" : "https://pspdfkit.com/blog/2019/intro-cpp-swift-developers/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 25
+}

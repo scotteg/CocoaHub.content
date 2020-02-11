@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/?id=01212020a",
+  "id" : 383,
+  "title" : "App Updates for HTML5 Apps",
+  "date" : "2020-01-21T23:35:12Z",
+  "description" : "Apple reminds that apps containing or running code that is not embedded in the binary cannot provide access to real money gaming, lotteries, or charitable donations. Existing applications must be in full compliance with this guideline by March 3, 2020.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

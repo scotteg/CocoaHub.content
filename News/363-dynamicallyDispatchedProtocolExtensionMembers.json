@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/dynamically-dispatched-protocol-extension-members/32566",
+  "id" : 373,
+  "title" : "Dynamically-dispatched protocol extension members",
+  "date" : "2020-01-14T12:47:42Z",
+  "description" : "Karl pitches the idea of allowing protocol extension members to be dispatched dynamically. What do you think?",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

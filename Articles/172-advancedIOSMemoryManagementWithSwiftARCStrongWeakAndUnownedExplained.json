@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Advanced iOS Memory Management with Swift: ARC, Strong, Weak and Unowned Explained",
+  "url" : "https://www.vadimbulavin.com/swift-memory-management-arc-strong-weak-and-unowned/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 18
+}

@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Deep Dive into Recursion",
+  "url" : "https://www.vadimbulavin.com/recursion-in-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 5
+}

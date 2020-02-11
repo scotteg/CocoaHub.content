@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/accepted-se-0268-refine-didset-semantics/31822",
+  "id" : 348,
+  "title" : "SE-0268: Refine didSet Semantics has been accepted",
+  "date" : "2019-12-18T21:29:14Z",
+  "description" : "“During the second review, it became clear that the feeling of most commenters was that the increased verbosity (and new warnings) did not justify the change. The core team agrees with the feedback, and so has accepted the original proposal.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

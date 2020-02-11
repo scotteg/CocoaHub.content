@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Stefan Kofler",
+    "url" : "https://twitter.com/kofse"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "Combine vs RxSwift: Should you switch to Combine?",
+  "url" : "https://quickbirdstudios.com/blog/combine-vs-rxswift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 9
+}

@@ -1,0 +1,14 @@
+{
+  "url" : "https://twitter.com/swiftbysundell/status/1211948412993703936",
+  "id" : 363,
+  "title" : "Build your own website in Swift",
+  "date" : "2019-12-31T11:30:05Z",
+  "description" : "John Sundell open-sources the entire Swift-based toolchain (Ink, Plot and Publish) he used to build Swift by Sundell.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

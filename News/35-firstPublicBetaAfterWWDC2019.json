@@ -1,0 +1,14 @@
+{
+  "url" : "https://beta.apple.com/sp/betaprogram/",
+  "id" : 36,
+  "title" : "First public beta after WWDC 2019",
+  "date" : "2019-06-24T22:10:00Z",
+  "description" : "Apple relased the first public beta of macOS Catalina, iOS 13, iPadOS 13 and tvOS 13.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

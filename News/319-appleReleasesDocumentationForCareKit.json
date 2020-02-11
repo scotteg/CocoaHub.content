@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/documentation/carekit",
+  "id" : 329,
+  "title" : "Apple releases documentation for CareKit",
+  "date" : "2019-12-06T10:18:46Z",
+  "description" : "”An open source framework for developing apps, CareKit helps users better understand and manage their health by creating dynamic care plans, tracking symptoms, connecting to care teams, and more.”",
+  "curator" : {
+    "name" : "Irshad Pc",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

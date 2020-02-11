@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "The magic of view preferences in SwiftUI",
+  "url" : "https://swiftwithmajid.com/2020/01/15/the-magic-of-view-preferences-in-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 32
+}

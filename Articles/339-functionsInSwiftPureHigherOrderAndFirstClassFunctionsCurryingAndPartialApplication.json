@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Functions in Swift: Pure, Higher-Order and First-Class Functions, Currying and Partial Application",
+  "url" : "https://www.vadimbulavin.com/pure-functions-higher-order-functions-and-first-class-functions-in-swift/",
+  "curator" : {
+    "name" : "Vadim Bulavin",
+    "url" : "https://twitter.com/V8tr"
+  },
+  "edition" : 32
+}

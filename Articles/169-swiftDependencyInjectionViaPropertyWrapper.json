@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Basem Emara",
+    "url" : "https://twitter.com/basememara"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Swift Dependency Injection via Property Wrapper",
+  "url" : "https://basememara.com/swift-dependency-injection-via-property-wrapper/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 17
+}

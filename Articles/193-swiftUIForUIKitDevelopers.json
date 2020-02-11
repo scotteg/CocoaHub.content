@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Aleksandar Vacić",
+    "url" : "https://twitter.com/radiantav"
+  },
+  "tags" : [
+    "architecture",
+    "ui"
+  ],
+  "title" : "SwiftUI for UIKit developers",
+  "url" : "https://aplus.rs/2019/swiftui-for-uikit-developers/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 19
+}

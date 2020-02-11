@@ -1,0 +1,17 @@
+{
+  "author" : {
+    "name" : "Benoit Pasquier",
+    "url" : "https://twitter.com/BenoitPasquier_"
+  },
+  "tags" : [
+    "debugging",
+    "ui"
+  ],
+  "title" : "Localization with SwiftUI, how to preview your localized content",
+  "url" : "https://benoitpasquier.com/localization-swiftui-how-top-preview-localized-content/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 33
+}

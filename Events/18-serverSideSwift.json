@@ -1,0 +1,15 @@
+{
+    "name": "ServerSide.swift",
+    "url": "https://www.serversideswift.info",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FserverSideSwift.jpg?alt=media&token=924b386e-2ece-40cf-a79d-eccf44956f3f",
+    "startDate": "2019-10-30T12:00:00+0000",
+    "endDate": "2019-11-01T12:00:00+0000",
+    "country": "Denmark",
+    "city": "Copenhagen",
+    "tags": [],
+    "isActive": false,
+    "coordinates": {
+        "latitute": 55.672446,
+        "longitude": 12.578607
+    }
+}

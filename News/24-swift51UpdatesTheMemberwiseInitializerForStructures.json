@@ -1,0 +1,14 @@
+{
+  "url" : "https://twitter.com/johnsundell/status/1141345740180086784",
+  "id" : 25,
+  "title" : "Swift 5.1 updates the memberwise initializer for structures",
+  "date" : "2019-06-19T15:48:00Z",
+  "description" : "This initializer now provides default values for variables that hold default expressions.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

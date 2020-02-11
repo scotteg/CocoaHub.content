@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "tipsAndTricks"
+  ],
+  "title" : "Configuring projects with xcconfig",
+  "url" : "https://www.donnywals.com/configuring-projects-with-xcconfig/",
+  "curator" : {
+    "name" : "Irshad PC",
+    "url" : "https://twitter.com/_irshadpc"
+  },
+  "edition" : 23
+}

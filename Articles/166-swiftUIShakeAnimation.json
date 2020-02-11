@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Chris Eidhof",
+    "url" : "https://twitter.com/chriseidhof"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "SwiftUI: Shake Animation",
+  "url" : "https://www.objc.io/blog/2019/10/01/swiftui-shake-animation/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 17
+}

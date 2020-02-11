@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.hackingwithswift.com/awards",
+  "id" : 337,
+  "title" : "Paul Hudson announces the winners of this year's Swift Community Awards",
+  "date" : "2019-12-13T00:11:17Z",
+  "description" : "“After almost 1000 nominations and 5000 votes, it's time to announce the winners of the 2019 Swift Community Awards, chosen by you!“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}

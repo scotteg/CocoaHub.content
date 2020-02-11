@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Redux-like state container in SwiftUI",
+  "url" : "https://mecid.github.io/2019/09/18/redux-like-state-container-in-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 15
+}

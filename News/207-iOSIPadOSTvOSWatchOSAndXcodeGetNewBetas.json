@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/news/releases/",
+  "id" : 215,
+  "title" : "iOS, iPadOS, tvOS, watchOS and Xcode get new betas",
+  "date" : "2019-10-02T17:40:02Z",
+  "description" : "Apple releases iOS 13.2 beta, iPadOS 13.2 beta, tvOS 13.2 beta, watchOS 6.1 beta 2 and Xcode 11.2 beta.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

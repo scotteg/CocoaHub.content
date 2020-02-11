@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "The power of Environment in SwiftUI",
+  "url" : "https://mecid.github.io/2019/08/21/the-power-of-environment-in-swiftui/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 11
+}

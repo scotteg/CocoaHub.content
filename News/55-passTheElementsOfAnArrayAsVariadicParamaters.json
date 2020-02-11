@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/pitch-another-attempt-at-passing-arrays-as-varargs-with-implementation/26718",
+  "id" : 61,
+  "title" : "Pass the elements of an Array as variadic paramaters",
+  "date" : "2019-07-08T22:24:00Z",
+  "description" : "Currently, it isn't possible to pass an Array's elements to a function as a variadic argument. Should it be possible? Do you agree with Owen Voorhees's implementation?",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

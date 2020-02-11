@@ -1,0 +1,18 @@
+{
+    "name": "try! Swift Tokyo",
+    "url": "https://www.tryswift.co/events/2020/tokyo/en/",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2FtrySwiftTokyo.png?alt=media&token=c94d7156-46b1-4cc3-b980-b83405cf178a",
+    "startDate": "2020-03-18T12:00:00+0000",
+    "endDate": "2020-03-19T12:00:00+0000",
+    "country": "Japan",
+    "city": "Tokyo",
+    "tags": [
+        "tickets",
+        "callForPapers"
+    ],
+    "isActive": true,
+    "coordinates": {
+        "latitute": 35.658006,
+        "longitude": 139.708853
+    }
+}

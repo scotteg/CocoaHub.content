@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Rich Kolasa",
+    "url" : "https://twitter.com/notkoalas"
+  },
+  "tags" : [
+    "language"
+  ],
+  "title" : "Composing Rich Link Previews using LinkPresentation",
+  "url" : "https://richkolasa.netlify.com/posts/2019/07/composing-rich-link-previews-using-linkpresentation-in-swift/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 11
+}

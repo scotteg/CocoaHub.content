@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Thomas Sivilay",
+    "url" : "https://twitter.com/thomassivilay"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Show a banner from anywhere in SwiftUI using ViewModifier",
+  "url" : "https://www.morningswiftui.com/blog/show-a-banner-from-anywhere-in-swiftui-using-viewmodifier",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 22
+}

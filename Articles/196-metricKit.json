@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Mattt",
+    "url" : "https://twitter.com/mattt"
+  },
+  "tags" : [
+    "other"
+  ],
+  "title" : "MetricKit",
+  "url" : "https://nshipster.com/metrickit/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 20
+}

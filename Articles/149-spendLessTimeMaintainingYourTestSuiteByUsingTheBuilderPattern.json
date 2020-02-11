@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Donny Wals",
+    "url" : "https://twitter.com/DonnyWals"
+  },
+  "tags" : [
+    "testing"
+  ],
+  "title" : "Spend less time maintaining your test suite by using the Builder Pattern",
+  "url" : "https://www.donnywals.com/spend-less-time-maintaining-your-test-suite-by-using-the-builder-pattern/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 15
+}

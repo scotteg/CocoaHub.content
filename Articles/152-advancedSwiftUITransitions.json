@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Javier",
+    "url" : "https://twitter.com/SwiftUILab"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Advanced SwiftUI Transitions",
+  "url" : "https://swiftui-lab.com/advanced-transitions/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 16
+}

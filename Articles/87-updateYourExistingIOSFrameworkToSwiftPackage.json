@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Alex Bartiş",
+    "url" : "https://twitter.com/AlexBartis"
+  },
+  "tags" : [
+    "tooling"
+  ],
+  "title" : "Update your existing iOS Framework to Swift Package",
+  "url" : "https://medium.com/@alexbarti/update-your-existing-ios-framework-to-swift-package-fa8128323b33",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 9
+}

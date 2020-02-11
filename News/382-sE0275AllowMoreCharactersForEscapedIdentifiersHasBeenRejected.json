@@ -1,0 +1,14 @@
+{
+  "url" : "https://forums.swift.org/t/rejected-se-0275-allow-more-characters-like-whitespaces-and-punctuations-for-escaped-identifiers/33174",
+  "id" : 392,
+  "title" : "SE-0275: Allow more characters for escaped identifiers has been rejected",
+  "date" : "2020-01-28T21:34:54Z",
+  "description" : "“The core team has decided to reject this proposal. Community reaction was mixed, and many of the people both supporting and rejecting the idea had concerns about the breadth of the set of characters this allows.“",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}

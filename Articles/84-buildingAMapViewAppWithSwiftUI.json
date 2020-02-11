@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Thomas Sivilay",
+    "url" : "https://twitter.com/thomassivilay"
+  },
+  "tags" : [
+    "ui"
+  ],
+  "title" : "Building a MapView app with SwiftUI",
+  "url" : "https://www.morningswiftui.com/blog/build-mapview-app-with-swiftui",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 8
+}

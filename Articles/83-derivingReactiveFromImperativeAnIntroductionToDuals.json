@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Jasdev Singh",
+    "url" : "https://jasdev.me/duals"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Deriving Reactive from Imperative: An Introduction to Duals",
+  "url" : "https://twitter.com/jasdev",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 8
+}

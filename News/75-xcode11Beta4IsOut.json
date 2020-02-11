@@ -1,0 +1,14 @@
+{
+  "url" : "https://developer.apple.com/documentation/xcode_release_notes/xcode_11_beta_4_release_notes",
+  "id" : 81,
+  "title" : "Xcode 11 Beta 4 is out!",
+  "date" : "2019-07-18T10:14:00Z",
+  "description" : "Among the new features & bug fixes, you can now change Xcode's appearance independently of the system appearance.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "apple"
+  ]
+}

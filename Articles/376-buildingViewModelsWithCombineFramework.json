@@ -1,0 +1,16 @@
+{
+  "author" : {
+    "name" : "Majid Jabrayilov",
+    "url" : "https://twitter.com/mecid"
+  },
+  "tags" : [
+    "architecture"
+  ],
+  "title" : "Building ViewModels with Combine framework",
+  "url" : "https://swiftwithmajid.com/2020/02/05/building-viewmodels-with-combine-framework/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "edition" : 35
+}

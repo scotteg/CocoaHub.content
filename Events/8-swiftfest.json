@@ -1,0 +1,15 @@
+{
+    "name": "SwiftFest",
+    "url": "https://swiftfest.io",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/pedrommcarrasco-cocoahub.appspot.com/o/events%2Fswiftfest.jpg?alt=media&token=8fe52e8f-e533-4871-a744-19f395e5495f",
+    "startDate": "2019-07-29T12:00:00+0000",
+    "endDate": "2019-07-30T12:00:00+0000",
+    "country": "United States of America",
+    "city": "Boston",
+    "tags": ["tickets"],
+    "isActive": false,
+    "coordinates": {
+        "latitute": 42.344652,
+        "longitude": -71.070856
+    }
+}

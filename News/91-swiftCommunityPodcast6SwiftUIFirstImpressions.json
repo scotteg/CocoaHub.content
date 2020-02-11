@@ -1,0 +1,14 @@
+{
+  "url" : "https://www.swiftcommunitypodcast.org/episodes/6",
+  "id" : 98,
+  "title" : "Swift Community Podcast 6: SwiftUI first impressions",
+  "date" : "2019-07-26T19:05:00Z",
+  "description" : "More than a month after SwiftUI's introduction, Kateryna Grindina, Paul Hudson, Erica Sadun and John Sundell discuss their first impressions about it and the language features that make it possible.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}

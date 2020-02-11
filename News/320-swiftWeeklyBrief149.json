@@ -1,0 +1,14 @@
+{
+  "url" : "https://swiftweekly.github.io/issue-149/",
+  "id" : 330,
+  "title" : "Swift Weekly Brief 149",
+  "date" : "2019-12-06T15:31:25Z",
+  "description" : "Bas Broek sums up what has been happening in the Swift open source projects at Swift.org for the past two weeks.",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "newsletter"
+  ]
+}
