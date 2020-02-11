@@ -52,20 +52,20 @@ There are 6 possible tags for news, being:
 
 ```json
 {
+  "edition" : 1,
+  "title" : "Understanding the SwiftUI Sample",
+  "url" : "https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/",
+  "tags" : [
+    "language"
+  ],
   "author" : {
     "name" : "Rui Peres",
     "url" : "https://twitter.com/peres"
   },
-  "tags" : [
-    "language"
-  ],
-  "title" : "Understanding the SwiftUI Sample",
-  "url" : "https://ruiper.es/2019/06/09/understanding-the-swiftui-sample/",
   "curator" : {
     "name" : "Pedro Carrasco",
     "url" : "https://twitter.com/pedrommcarrasco"
-  },
-  "edition" : 1
+  }
 }
 ```
 
@@ -99,8 +99,8 @@ There are 16 possible tags for articles, being:
     "endDate": "2020-06-26T12:00:00+0000",
     "country": "Portugal",
     "city": "Aveiro",
-    "tags": []
-    "isActive": true
+    "tags": [],
+    "isActive": true,
     "coordinates": [
         "latitute": 40.638370,
         "longitude": -8.645109
