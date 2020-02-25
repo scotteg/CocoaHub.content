@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 67: “Building for open source”",
+    "description" : "Listen to John Sundell and his special guests, Ryan Nystorm and Brian Lovin, talk about the new GitHub mobile app, creating design systems, building custom controls, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/67/",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
