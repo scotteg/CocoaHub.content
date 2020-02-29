@@ -1,0 +1,15 @@
+{
+    "name": "mDevCamp",
+    "url": "https://mdevcamp.eu/",
+    "logo": "https://lh3.googleusercontent.com/1b-0WCV32RoKolQ_nF0DHolL4eZwzQdq0BeB_izV4EQSXHgx2PD8joOKwF2TAihAm_A",
+    "startDate": "2020-05-29T12:00:00+0000",
+    "endDate": "2020-05-29T12:00:00+0000",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "tags": [tickets],
+    "isActive": true,
+    "coordinates": [
+        "latitute": 50.0621,
+        "longitude": 14.4287
+    ]
+}
