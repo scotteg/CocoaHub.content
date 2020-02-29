@@ -8,8 +8,8 @@
     "city": "Prague",
     "tags": ["tickets"],
     "isActive": true,
-    "coordinates": [
+    "coordinates": {
         "latitute": 50.0621,
         "longitude": 14.4287
-    ]
+    }
 }
