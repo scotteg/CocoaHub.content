@@ -6,7 +6,7 @@
     "endDate": "2020-05-30T12:00:00+0000",
     "country": "Czech Republic",
     "city": "Prague",
-    "tags": ["tickets", "callForPapers"],
+    "tags": ["tickets"],
     "isActive": true,
     "coordinates": {
         "latitute": 50.0621,
