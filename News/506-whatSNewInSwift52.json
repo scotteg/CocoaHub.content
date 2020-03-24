@@ -1,0 +1,12 @@
+{
+    "url" : "https://www.whatsnewinswift.com/?from=5.1&to=5.2",
+    "title" : "What’s new in Swift 5.2?",
+    "description" : "“Swift 5.2 arrived with Xcode 11.4, and includes a handful of language changes alongside reductions in code size and memory usage, plus a new diagnostic architecture that will help you understand and resolve errors faster.“",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
