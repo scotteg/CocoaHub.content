@@ -1,0 +1,12 @@
+{
+    "title" : "Xcode 11.4 is now available on the App Store",
+    "description" : "The latest version of Xcode arrives with Swift 5.2, improvements to the Swift compiler, universal purchase, iPad's cursor support, and much more!",
+    "url" : "https://apps.apple.com/app/id497799835",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
