@@ -1,0 +1,12 @@
+{
+    "title" : "Swift 5.2 is now available",
+    "description" : "Swift 5.2 was released along with Xcode 11.4 and Ted Kremenek officially announces it with a quick tour of the main changes.",
+    "url" : "https://swift.org/blog/swift-5-2-released/",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
