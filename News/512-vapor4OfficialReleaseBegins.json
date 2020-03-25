@@ -1,0 +1,12 @@
+{
+  "title" : "Vapor 4 official release begins",
+  "description" : "“Now that Swift 5.2 is here, Vapor 4 has begun releasing official tags for all of its packages. This process starts with the lowest level packages and works up to high level ones.“",
+  "url" : "https://forums.swift.org/t/vapor-4-official-release-begins/34802",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "community"
+  ]
+}
