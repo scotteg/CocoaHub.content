@@ -1,0 +1,13 @@
+{
+    
+    "title" : "ARKit 3.5 is now available",
+    "description" : "The latest version of ARKit takes “advantage of the new LiDAR Scanner and depth-sensing system on iPad Pro to support a new generation of AR applications that use Scene Geometry for enhanced scene understanding and object occlusion“.",
+    "url" : "https://developer.apple.com/news/?id=03242020a",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "apple"
+    ]
+}
