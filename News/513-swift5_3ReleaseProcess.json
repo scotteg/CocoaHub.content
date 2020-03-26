@@ -1,0 +1,12 @@
+{
+  "title" : "Swift 5.3 Release Process",
+  "description" : "Nicole Jaque describes the goals, release process, and estimated schedule for Swift 5.3.",
+  "url" : "https://swift.org/blog/5-3-release-process/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "evolution"
+  ]
+}
