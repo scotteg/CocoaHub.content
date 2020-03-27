@@ -1,0 +1,16 @@
+{
+    "edition": 42,
+    "title": "tintColor",
+    "url": "https://sarunw.com/posts/tintcolor/",
+    "author": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "curator": {
+        "name": "Sarun W.",
+        "url": "https://twitter.com/sarunw"
+    },
+    "tags": [
+        "ui"
+    ]
+}

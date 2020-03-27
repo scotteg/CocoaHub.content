@@ -1,0 +1,17 @@
+{
+    "edition": 42,
+    "title": "Keyboard and Combine",
+    "url": "https://www.swiftjectivec.com/keyboard-and-combine/",
+    "author": {
+        "name": "Jordan Morgan",
+        "url": "https://twitter.com/JordanMorgan10"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui",
+        "other"
+    ]
+}

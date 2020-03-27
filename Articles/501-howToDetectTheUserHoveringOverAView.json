@@ -1,0 +1,16 @@
+{
+    "edition": 42,
+    "title": "How to detect the user hovering over a view",
+    "url": "https://www.hackingwithswift.com/quick-start/swiftui/how-to-detect-the-user-hovering-over-a-view",
+    "author": {
+        "name": "Paul Hudson",
+        "url": "https://twitter.com/twostraws"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

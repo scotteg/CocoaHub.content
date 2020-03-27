@@ -1,0 +1,16 @@
+{
+    "edition": 42,
+    "title": "Implementing mouse pointer interactions on iPad",
+    "url": "https://rambo.codes/posts/2020-03-19-implementing-mouse-interactions-on-ipad",
+    "author": {
+        "name": "Gui Rambo",
+        "url": "https://twitter.com/_inside"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

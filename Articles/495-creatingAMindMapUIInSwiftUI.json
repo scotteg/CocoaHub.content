@@ -1,0 +1,16 @@
+{
+    "edition": 42,
+    "title": "Creating a Mind-Map UI in SwiftUI",
+    "url": "https://www.raywenderlich.com/7705231-creating-a-mind-map-ui-in-swiftui",
+    "author": {
+        "name": "Warren Burton",
+        "url": "https://twitter.com/troutdev"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

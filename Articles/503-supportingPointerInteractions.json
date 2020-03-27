@@ -1,0 +1,16 @@
+{
+    "edition": 42,
+    "title": "Supporting Pointer Interactions",
+    "url": "https://pspdfkit.com/blog/2020/supporting-pointer-interactions/",
+    "author": {
+        "name": "Peter Steinberger",
+        "url": "https://twitter.com/steipete"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "ui"
+    ]
+}

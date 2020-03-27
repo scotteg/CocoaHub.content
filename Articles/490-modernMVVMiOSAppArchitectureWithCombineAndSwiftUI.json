@@ -1,0 +1,16 @@
+{
+    "edition": 42,
+    "title": "Modern MVVM iOS App Architecture with Combine and SwiftUI",
+    "url": "https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

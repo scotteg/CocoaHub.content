@@ -1,0 +1,16 @@
+{
+    "edition": 42,
+    "title": "Swift Logging",
+    "url": "https://nshipster.com/swift-log/",
+    "author": {
+        "name": "Mattt",
+        "url": "https://twitter.com/mattt"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "other"
+    ]
+}
