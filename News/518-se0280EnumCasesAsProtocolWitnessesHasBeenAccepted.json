@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0280: Enum Cases as Protocol Witnesses has been accepted",
+    "description" : "“Almost all of the feedback we received was in favor of making this change, and the Core Team is convinced that this closes an unnecessary semantic gap between enums and other types.“",
+    "url" : "https://forums.swift.org/t/accepted-se-0280-enum-cases-as-protocol-witnesses/34850",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
