@@ -1,0 +1,12 @@
+{
+    "title" : "Swift Community Podcast 8: “Swift for Good“",
+    "description" : "Bas Broek, Chris Lattner, Kate Castellano and Paul Hudson discuss about Paul's Swift for Good book project with a few of the people involved.",
+    "url" : "https://www.swiftcommunitypodcast.org/episodes/8",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
