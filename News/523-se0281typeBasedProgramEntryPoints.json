@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0281: @main: Type-Based Program Entry Points",
+    "description" : "Nate Cook, Nate Chandler and Matt Ricketson propose adding the @main attribute to allow libraries and frameworks to provide custom entry-point behavior through protocols or class inheritance. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0281-main-type-based-program-entry-points/34948",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
