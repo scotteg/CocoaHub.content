@@ -1,0 +1,12 @@
+{
+    "title" : "Spot the Swifty",
+    "description" : "Paul Hudson and Gus Morais celebrate April Fools day with a massive picture inspired by “Where's Wally“ but full of references to Swift and its community. Can you find all of them?",
+    "url" : "https://www.hackingwithswift.com/articles/215/spot-the-swifty",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
