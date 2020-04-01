@@ -7,7 +7,7 @@
     "country": "Portugal",
     "city": "Aveiro",
     "tags": ["tickets"],
-    "isActive": true,
+    "isActive": false,
     "coordinates": {
         "latitute": 40.638370,
         "longitude": -8.645109
