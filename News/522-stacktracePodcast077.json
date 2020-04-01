@@ -1,0 +1,12 @@
+{
+  "title" : "Stacktrace Podcast 077: “Structs that are real”",
+  "description" : "John Sundell, Gui Rambo and their special guests, Christian Selig, Casey Liss, Jordan Morgan and Kaya Thomas, talk about indie app development, rewriting code, what makes Combine such a great way to do reactive programming in Swift, and more.",
+  "url" : "https://9to5mac.com/2020/04/01/stacktrace-podcast-077-structs-that-are-real-featuring-kaya-thomas-casey-liss-christian-selig-and-jordan-morgan/",
+  "curator" : {
+    "name" : "Pedro Carrasco",
+    "url" : "https://twitter.com/pedrommcarrasco"
+  },
+  "tags" : [
+    "podcast"
+  ]
+}
