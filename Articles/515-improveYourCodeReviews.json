@@ -1,0 +1,16 @@
+{
+    "edition": 43,
+    "title": "Improve your code reviews",
+    "url": "https://dpc.pw/improve-your-code-reviews",
+    "author": {
+        "name": "Dawid Ciezarkiewicz",
+        "url": "https://twitter.com/dpc_pw"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "workflow"
+    ]
+}

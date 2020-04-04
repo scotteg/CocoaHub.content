@@ -1,0 +1,16 @@
+{
+    "edition": 43,
+    "title": "Custom subscripts in Swift explained with code examples",
+    "url": "https://www.avanderlee.com/swift/custom-subscripts/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 43,
+    "title": "How To Add Extra Commands To CLI Tools",
+    "url": "https://www.fivestars.blog/code/swift-subcommands-galore.html",
+    "author": {
+        "name": "Federico Zanetello",
+        "url": "https://twitter.com/zntfdr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 43,
+    "title": "Configuring the Main Thread Checker",
+    "url": "https://bryce.co/main-thread-checker-configuration/",
+    "author": {
+        "name": "Bryce Pauken",
+        "url": "https://twitter.com/brycepauken"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "debugging"
+    ]
+}

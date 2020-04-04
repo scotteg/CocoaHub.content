@@ -1,0 +1,16 @@
+{
+    "edition": 43,
+    "title": "Understanding Swift's ObjectIdentifier",
+    "url": "https://swiftrocks.com/understanding-swifts-objectidentifier.html",
+    "author": {
+        "name": "Bruno Rocha",
+        "url": "https://twitter.com/rockbruno_"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 43,
+    "title": "Keyboard Avoidance for SwiftUI Views",
+    "url": "https://www.vadimbulavin.com/how-to-move-swiftui-view-when-keyboard-covers-text-field/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}
