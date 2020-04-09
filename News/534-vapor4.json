@@ -1,0 +1,12 @@
+{
+    "title": "Vapor 4 has been released",
+    "description": "The Vapor team begun releasing official tags for all of its packages 15 days ago. This process started with the lowest level packages and ended today with the release of the main package.",
+    "url": "https://github.com/vapor/vapor/releases/tag/4.0.0",
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "community"
+    ]
+}
