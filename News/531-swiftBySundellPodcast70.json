@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 70: “Risks and rewards”",
+    "description" : "Listen to John Sundell and his special guest, Christian Selig, talk about building apps against third party APIs, good platform citizens, GraphQL, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/70",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
