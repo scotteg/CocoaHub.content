@@ -1,0 +1,16 @@
+{
+    "edition": 44,
+    "title": "View Communication Patterns in SwiftUI",
+    "url": "https://www.vadimbulavin.com/passing-data-between-swiftui-views/",
+    "author": {
+        "name": "Vadim Bulavin",
+        "url": "https://twitter.com/V8tr"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

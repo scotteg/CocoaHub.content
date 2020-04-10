@@ -1,0 +1,16 @@
+{
+    "edition": 44,
+    "title": "The Ultimate Guide to iOS Subscription Testing",
+    "url": "https://www.revenuecat.com/blog/the-ultimate-guide-to-subscription-testing-on-ios",
+    "author": {
+        "name": "David Barnard",
+        "url": "https://twitter.com/drbarnard"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}

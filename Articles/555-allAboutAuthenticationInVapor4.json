@@ -1,0 +1,16 @@
+{
+    "edition": 44,
+    "title": "All about authentication in Vapor 4",
+    "url": "https://theswiftdev.com/all-about-authentication-in-vapor-4/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "server"
+    ]
+}

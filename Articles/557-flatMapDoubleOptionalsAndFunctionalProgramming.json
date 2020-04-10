@@ -1,0 +1,16 @@
+{
+    "edition": 44,
+    "title": "flatMap, Double Optionals, and Functional Programming",
+    "url": "https://learningswift.brightdigit.com/flatmap-double-optionals-functional-programming/",
+    "author": {
+        "name": "Leo G Dion",
+        "url": "https://twitter.com/leogdion"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}

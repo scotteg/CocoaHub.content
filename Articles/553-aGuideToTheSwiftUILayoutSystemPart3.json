@@ -1,0 +1,16 @@
+{
+    "edition": 44,
+    "title": "A guide to the SwiftUI layout system - Part 3",
+    "url": "https://www.swiftbysundell.com/articles/swiftui-layout-system-guide-part-3/",
+    "author": {
+        "name": "John Sundell",
+        "url": "https://twitter.com/johnsundell"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui"
+    ]
+}

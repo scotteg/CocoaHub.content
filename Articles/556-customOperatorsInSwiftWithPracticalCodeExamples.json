@@ -1,0 +1,16 @@
+{
+    "edition": 44,
+    "title": "Custom Operators in Swift with practical code examples",
+    "url": "https://www.avanderlee.com/swift/custom-operators-swift/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "language"
+    ]
+}
