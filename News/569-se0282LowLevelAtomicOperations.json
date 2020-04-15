@@ -1,0 +1,12 @@
+{
+    "title" : "SE-0282: Low-Level Atomic Operations",
+    "description" : "Karoy Lorentey proposes adding a limited set of low-level atomic operations to the Standard Library. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0282-low-level-atomic-operations/35382",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
