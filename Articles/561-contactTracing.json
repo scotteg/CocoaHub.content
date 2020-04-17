@@ -1,0 +1,16 @@
+{
+    "edition": 45,
+    "title": "Contact Tracing",
+    "url": "https://nshipster.com/contact-tracing/",
+    "author": {
+        "name": "Mattt",
+        "url": "https://twitter.com/mattt"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "other"
+    ]
+}

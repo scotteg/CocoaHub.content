@@ -1,0 +1,16 @@
+{
+    "edition": 45,
+    "title": "Modules and hooks in Swift",
+    "url": "https://theswiftdev.com/modules-and-hooks-in-swift/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Prakash Rajendran",
+        "url": "https://twitter.com/dearprakash"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

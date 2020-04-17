@@ -1,0 +1,17 @@
+{
+    "edition": 45,
+    "title": "SwiftUI Previews: Validating views in different states",
+    "url": "https://www.avanderlee.com/swiftui/previews-different-states/",
+    "author": {
+        "name": "Antoine v.d. Lee",
+        "url": "https://twitter.com/twannl"
+    },
+    "curator": {
+        "name": "Irshad PC",
+        "url": "https://twitter.com/_irshadpc"
+    },
+    "tags": [
+        "ui",
+        "debugging"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "edition": 45,
+    "title": "How to Swizzle All of UIKit",
+    "url": "https://bryce.co/swizzle-all-uikit/",
+    "author": {
+        "name": "Bryce Pauken",
+        "url": "https://twitter.com/brycepauken"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "language",
+        "other"
+    ]
+}
