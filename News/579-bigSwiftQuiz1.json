@@ -1,0 +1,12 @@
+{
+    "title" : "Paul Hudson announces the Big Swift Quiz",
+    "description" : "“The Big Swift Quiz is a free series of YouTube livestreams, where you can test your Swift knowledge against the world and learn something new at the same time.“",
+    "url" : "https://www.hackingwithswift.com/quiz",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "community"
+    ]
+}
