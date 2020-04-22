@@ -1,0 +1,12 @@
+{
+    "title" : "Allow key paths to reference unapplied instance methods",
+    "description" : "Paul Cantrell pitches adding the ability for key paths to reference instance methods. What do you think?",
+    "url" : "https://forums.swift.org/t/allow-key-paths-to-reference-unapplied-instance-methods/35582",
+    "curator" : {
+        "name" : "Irshad PC",
+        "url" : "https://twitter.com/_irshadpc"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
