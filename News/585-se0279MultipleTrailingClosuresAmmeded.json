@@ -1,0 +1,13 @@
+{
+
+    "title" : "SE-0279: Multiple Trailing Closures is now up for a second review",
+    "description" : "The proposal authors have revised and modified the original proposal in order to address some of the concerns presented by the Swift community. What do you think?",
+    "url" : "https://forums.swift.org/t/se-0279-multiple-trailing-closures-amended/35435",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "evolution"
+    ]
+}
