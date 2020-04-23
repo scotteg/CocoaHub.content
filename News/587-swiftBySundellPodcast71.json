@@ -1,0 +1,12 @@
+{
+    "title" : "Swift by Sundell Podcast 71: “Polymorphic interfaces”",
+    "description" : "Listen to John Sundell and his special guest, Dave Abrahams, talk about Protocol-Oriented Programming, Swift's overall design, and much more!",
+    "url" : "https://www.swiftbysundell.com/podcast/71",
+    "curator" : {
+        "name" : "Pedro Carrasco",
+        "url" : "https://twitter.com/pedrommcarrasco"
+    },
+    "tags" : [
+        "podcast"
+    ]
+}
