@@ -1,0 +1,17 @@
+{
+    "edition": 46,
+    "title": "SwiftUI: Fetching Data from Firestore in Real Time",
+    "url": "https://peterfriese.dev/swiftui-firebase-fetch-data/",
+    "author": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "curator": {
+        "name": "Peter Friese",
+        "url": "https://twitter.com/peterfriese"
+    },
+    "tags": [
+        "ui",
+        "other"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 46,
+    "title": "The Swift package manifest file",
+    "url": "https://theswiftdev.com/the-swift-package-manifest-file/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "tooling"
+    ]
+}

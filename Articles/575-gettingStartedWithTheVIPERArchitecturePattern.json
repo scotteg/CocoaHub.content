@@ -1,0 +1,16 @@
+{
+    "edition": 46,
+    "title": "Getting Started with the VIPER Architecture Pattern",
+    "url": "https://www.raywenderlich.com/8440907-getting-started-with-the-viper-architecture-pattern",
+    "author": {
+        "name": "Michael Katz",
+        "url": "https://twitter.com/TheMikeKatz"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "architecture"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 46,
+    "title": "Server side Swift projects inside Docker using Vapor 4",
+    "url": "https://theswiftdev.com/server-side-swift-projects-inside-docker-using-vapor-4/",
+    "author": {
+        "name": "Tibor Bödecs",
+        "url": "https://twitter.com/tiborbodecs"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "server"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "edition": 46,
+    "title": "Unit Test Naming: The 3 Most Important Parts",
+    "url": "https://qualitycoding.org/unit-test-naming/",
+    "author": {
+        "name": "Jon Reid",
+        "url": "https://twitter.com/qcoding"
+    },
+    "curator": {
+        "name": "Pedro Carrasco",
+        "url": "https://twitter.com/pedrommcarrasco"
+    },
+    "tags": [
+        "testing"
+    ]
+}
