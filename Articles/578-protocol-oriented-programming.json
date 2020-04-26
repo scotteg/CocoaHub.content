@@ -1,0 +1,16 @@
+{
+    "edition": 1,
+    "title": "Protocol-Oriented Programming",
+    "url": "https://scotteg.github.io/protocol-oriented-programming",
+    "author": {
+        "name": "Scott Gardner",
+        "url": "https://twitter.com/scotteg"
+    },
+    "curator": {
+        "name": "Scott Gardner",
+        "url": "https://twitter.com/scotteg"
+    },
+    "tags": [
+        "language"
+    ]
+}
